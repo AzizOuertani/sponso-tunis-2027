@@ -1,0 +1,5382 @@
+[
+  {
+    "page": 1,
+    "width": 1190,
+    "height": 1684,
+    "title": "EVENT SERIES PROSPECTUS",
+    "lines": [
+      {
+        "id": "p01-r001-l1",
+        "text": "EVENT SERIES",
+        "x": 96.0,
+        "baseline": 354.5057,
+        "font_size": 116.0,
+        "font_family": "p01r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p01-r001-l2",
+        "text": "PROSPECTUS",
+        "x": 96.0,
+        "baseline": 478.5057,
+        "font_size": 116.0,
+        "font_family": "p01r001",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p01-r002-l1",
+        "text": "TUNISIA 2027",
+        "x": 96.0,
+        "baseline": 586.5058,
+        "font_size": 60.0,
+        "font_family": "p01r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p01-r003-l1",
+        "text": "Planned for April or May 2027 (date to be confirmed)",
+        "x": 96.0,
+        "baseline": 634.5058,
+        "font_size": 36.0,
+        "font_family": "p01r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p01-r004-l1",
+        "text": "One full-day event to learn, practice, and exchange with developers ",
+        "x": 96.0,
+        "baseline": 686.5058,
+        "font_size": 30.0,
+        "font_family": "p01r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p01-r004-l2",
+        "text": "who build real products. Training human beings, not machines.",
+        "x": 96.0,
+        "baseline": 731.5058,
+        "font_size": 30.0,
+        "font_family": "p01r004",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Fork it! Community's mission is to share software engineering knowledge thro",
+    "lines": [
+      {
+        "id": "p02-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p02r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r002-l1",
+        "text": "Fork it! Community's mission is to share software engineering knowledge through events around the world, ",
+        "x": 95.0,
+        "baseline": 216.0,
+        "font_size": 18.0,
+        "font_family": "p02r002",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r002-l2",
+        "text": "connecting practitioners and enthusiasts in an environment focused on the honest exchange of practical insights and ",
+        "x": 95.0,
+        "baseline": 243.0,
+        "font_size": 18.0,
+        "font_family": "p02r002",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r002-l3",
+        "text": "fostering a network built on real-world experience and practical applications.",
+        "x": 95.0,
+        "baseline": 270.0,
+        "font_size": 18.0,
+        "font_family": "p02r002",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r003-l1",
+        "text": "About Fork it! Community",
+        "x": 95.0,
+        "baseline": 371.0,
+        "font_size": 30.0,
+        "font_family": "p02r003",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p02-r004-l1",
+        "text": "Events for people in tech around the world to share ",
+        "x": 95.0,
+        "baseline": 417.0,
+        "font_size": 18.0,
+        "font_family": "p02r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r004-l2",
+        "text": "real-life experiences, supported by a community built ",
+        "x": 95.0,
+        "baseline": 444.0,
+        "font_size": 18.0,
+        "font_family": "p02r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r004-l3",
+        "text": "on honest, practical feedback.",
+        "x": 95.0,
+        "baseline": 471.0,
+        "font_size": 18.0,
+        "font_family": "p02r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l1",
+        "text": "Each edition is shaped around a central theme and ",
+        "x": 95.0,
+        "baseline": 514.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l2",
+        "text": "explores a wide range of topics, including technical ",
+        "x": 95.0,
+        "baseline": 541.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l3",
+        "text": "project management, UI/UX design, front-end and ",
+        "x": 95.0,
+        "baseline": 568.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l4",
+        "text": "back-end development, DevOps, security, and more. ",
+        "x": 95.0,
+        "baseline": 595.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l5",
+        "text": "The goal is to provide concrete insights rooted in real ",
+        "x": 95.0,
+        "baseline": 622.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l6",
+        "text": "projects and practical experience, offering lasting value ",
+        "x": 95.0,
+        "baseline": 649.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r005-l7",
+        "text": "to every participant.",
+        "x": 95.0,
+        "baseline": 676.0,
+        "font_size": 18.0,
+        "font_family": "p02r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r006-l1",
+        "text": "Fork it! continues to grow worldwide",
+        "x": 95.0,
+        "baseline": 777.0,
+        "font_size": 30.0,
+        "font_family": "p02r006",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p02-r007-l1",
+        "text": "Fork it! events have brought together vibrant communities across  countries ",
+        "x": 95.0,
+        "baseline": 823.0,
+        "font_size": 18.0,
+        "font_family": "p02r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r007-l2",
+        "text": "and  cities, including russels, aris, ouen, ontpellier, Casablanca, ",
+        "x": 95.0,
+        "baseline": 850.0,
+        "font_size": 18.0,
+        "font_family": "p02r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r007-l3",
+        "text": "Tunis, abeul, anoi, a ang, angkok, and uala umpur. ore editions ",
+        "x": 95.0,
+        "baseline": 877.0,
+        "font_size": 18.0,
+        "font_family": "p02r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r007-l4",
+        "text": "are planned, with new cities coming soon.",
+        "x": 95.0,
+        "baseline": 904.0,
+        "font_size": 18.0,
+        "font_family": "p02r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r008-l1",
+        "text": "7",
+        "x": 654.3008,
+        "baseline": 823.0,
+        "font_size": 18.0,
+        "font_family": "p02r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r008-l2",
+        "text": "11BPRM",
+        "x": 131.9141,
+        "baseline": 850.0,
+        "font_size": 18.0,
+        "font_family": "p02r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r008-l3",
+        "text": "NHDNBKLM",
+        "x": 149.9844,
+        "baseline": 877.0,
+        "font_size": 18.0,
+        "font_family": "p02r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r009-l1",
+        "text": "Paris",
+        "x": 203.3076,
+        "baseline": 1071.0,
+        "font_size": 14.0,
+        "font_family": "p02r009",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r010-l1",
+        "text": "Rouen",
+        "x": 166.2822,
+        "baseline": 1116.0,
+        "font_size": 14.0,
+        "font_family": "p02r010",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r011-l1",
+        "text": "Montpellier",
+        "x": 145.3438,
+        "baseline": 1170.0,
+        "font_size": 14.0,
+        "font_family": "p02r011",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r012-l1",
+        "text": "Brussels",
+        "x": 303.2705,
+        "baseline": 1060.0,
+        "font_size": 14.0,
+        "font_family": "p02r012",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r013-l1",
+        "text": "Tunis",
+        "x": 376.2969,
+        "baseline": 1177.0,
+        "font_size": 14.0,
+        "font_family": "p02r013",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r014-l1",
+        "text": "Nabeul",
+        "x": 409.3965,
+        "baseline": 1209.0,
+        "font_size": 14.0,
+        "font_family": "p02r014",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r015-l1",
+        "text": "Casablanca",
+        "x": 145.2432,
+        "baseline": 1240.0,
+        "font_size": 14.0,
+        "font_family": "p02r015",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r016-l1",
+        "text": "Hanoi",
+        "x": 919.1621,
+        "baseline": 1303.0,
+        "font_size": 14.0,
+        "font_family": "p02r016",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r017-l1",
+        "text": "Da Nang",
+        "x": 955.2344,
+        "baseline": 1366.0,
+        "font_size": 14.0,
+        "font_family": "p02r017",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r018-l1",
+        "text": "Bangkok",
+        "x": 721.2432,
+        "baseline": 1466.0,
+        "font_size": 14.0,
+        "font_family": "p02r018",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r019-l1",
+        "text": "Kuala Lumpur",
+        "x": 674.0508,
+        "baseline": 1536.0,
+        "font_size": 14.0,
+        "font_family": "p02r019",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p02-r020-l1",
+        "text": "More on",
+        "x": 136.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p02r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r021-l1",
+        "text": "forkit.community",
+        "x": 214.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p02r021",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r022-l1",
+        "text": "Page",
+        "x": 1031.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p02r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p02-r023-l1",
+        "text": "2",
+        "x": 1083.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p02r023",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Fork it! Since the Beginning",
+    "lines": [
+      {
+        "id": "p03-r005-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p03r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r006-l1",
+        "text": "Fork it! Since the Beginning",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p03r006",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p03-r007-l1",
+        "text": "Since June 2024, Fork it! Community has united tech ",
+        "x": 95.0,
+        "baseline": 277.0,
+        "font_size": 18.0,
+        "font_family": "p03r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r007-l2",
+        "text": "enthusiasts worldwide, expanding its network for sharing ",
+        "x": 95.0,
+        "baseline": 304.0,
+        "font_size": 18.0,
+        "font_family": "p03r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r007-l3",
+        "text": "experiences and fostering collaboration to drive innovation.",
+        "x": 95.0,
+        "baseline": 331.0,
+        "font_size": 18.0,
+        "font_family": "p03r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l1",
+        "text": "Fork it! is also a human story. t began with a group of tech ",
+        "x": 95.0,
+        "baseline": 374.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l2",
+        "text": "professionals from Normandy who, through Fork it!, found ",
+        "x": 95.0,
+        "baseline": 401.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l3",
+        "text": "their voice on stage and went on to share their expertise at ",
+        "x": 95.0,
+        "baseline": 428.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l4",
+        "text": "conferences around the world. Special recognition goes to ",
+        "x": 95.0,
+        "baseline": 455.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l5",
+        "text": ", , , , ",
+        "x": 198.7461,
+        "baseline": 482.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r008-l6",
+        "text": "and many others.",
+        "x": 206.3574,
+        "baseline": 509.0,
+        "font_size": 18.0,
+        "font_family": "p03r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r009-l1",
+        "text": "I",
+        "x": 347.0527,
+        "baseline": 374.0,
+        "font_size": 18.0,
+        "font_family": "p03r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r009-l2",
+        "text": ":",
+        "x": 591.0547,
+        "baseline": 455.0,
+        "font_size": 18.0,
+        "font_family": "p03r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r009-l3",
+        "text": "Ivan DalmetYoann FleuryHugo PérardNicolas Torion",
+        "x": 95.0,
+        "baseline": 482.0,
+        "font_size": 18.0,
+        "font_family": "p03r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r009-l4",
+        "text": "Marie Douet ",
+        "x": 95.0,
+        "baseline": 509.0,
+        "font_size": 18.0,
+        "font_family": "p03r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r010-l1",
+        "text": "Rouen",
+        "x": 853.0772,
+        "baseline": 306.0,
+        "font_size": 18.0,
+        "font_family": "p03r010",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r011-l1",
+        "text": "June 2026",
+        "x": 917.21,
+        "baseline": 306.0,
+        "font_size": 18.0,
+        "font_family": "p03r011",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r012-l1",
+        "text": "Tunis",
+        "x": 867.4531,
+        "baseline": 405.0,
+        "font_size": 18.0,
+        "font_family": "p03r012",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r013-l1",
+        "text": "Hanoi",
+        "x": 861.4942,
+        "baseline": 457.0,
+        "font_size": 18.0,
+        "font_family": "p03r013",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r014-l1",
+        "text": "Apr. 2026",
+        "x": 924.4981,
+        "baseline": 405.0,
+        "font_size": 18.0,
+        "font_family": "p03r014",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r015-l1",
+        "text": "Mar. 2026",
+        "x": 921.4863,
+        "baseline": 457.0,
+        "font_size": 18.0,
+        "font_family": "p03r015",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r016-l1",
+        "text": "Rouen",
+        "x": 859.0772,
+        "baseline": 556.0,
+        "font_size": 18.0,
+        "font_family": "p03r016",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r017-l1",
+        "text": "Jan. 2026",
+        "x": 923.1279,
+        "baseline": 556.0,
+        "font_size": 18.0,
+        "font_family": "p03r017",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r018-l1",
+        "text": "2026",
+        "x": 1046.2227,
+        "baseline": 557.5,
+        "font_size": 18.0,
+        "font_family": "p03r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r019-l1",
+        "text": "Bangkok",
+        "x": 838.2412,
+        "baseline": 705.0,
+        "font_size": 18.0,
+        "font_family": "p03r019",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r020-l1",
+        "text": "Oct. 2025",
+        "x": 923.3389,
+        "baseline": 705.0,
+        "font_size": 18.0,
+        "font_family": "p03r020",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r021-l1",
+        "text": "Kuala Lumpur",
+        "x": 148.1367,
+        "baseline": 817.0,
+        "font_size": 18.0,
+        "font_family": "p03r021",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r022-l1",
+        "text": "Oct. 2025",
+        "x": 277.3389,
+        "baseline": 817.0,
+        "font_size": 18.0,
+        "font_family": "p03r022",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r023-l1",
+        "text": "Hanoi",
+        "x": 624.4942,
+        "baseline": 804.0,
+        "font_size": 18.0,
+        "font_family": "p03r023",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r024-l1",
+        "text": "Aug. 2025",
+        "x": 684.1953,
+        "baseline": 804.0,
+        "font_size": 18.0,
+        "font_family": "p03r024",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r025-l1",
+        "text": "Bangkok",
+        "x": 835.2412,
+        "baseline": 804.0,
+        "font_size": 18.0,
+        "font_family": "p03r025",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r026-l1",
+        "text": "Aug. 2025",
+        "x": 920.1953,
+        "baseline": 804.0,
+        "font_size": 18.0,
+        "font_family": "p03r026",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r027-l1",
+        "text": "Montpellier",
+        "x": 809.1563,
+        "baseline": 953.0,
+        "font_size": 18.0,
+        "font_family": "p03r027",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r028-l1",
+        "text": "May. 2025",
+        "x": 918.3867,
+        "baseline": 953.0,
+        "font_size": 18.0,
+        "font_family": "p03r028",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r029-l1",
+        "text": "Tunis",
+        "x": 148.4531,
+        "baseline": 1119.0,
+        "font_size": 18.0,
+        "font_family": "p03r029",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r030-l1",
+        "text": "Apr. 2025",
+        "x": 205.1387,
+        "baseline": 1119.0,
+        "font_size": 18.0,
+        "font_family": "p03r030",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r031-l1",
+        "text": "Tunis",
+        "x": 663.4531,
+        "baseline": 1054.0,
+        "font_size": 18.0,
+        "font_family": "p03r031",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r032-l1",
+        "text": "Mar. 2025",
+        "x": 720.127,
+        "baseline": 1054.0,
+        "font_size": 18.0,
+        "font_family": "p03r032",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r033-l1",
+        "text": "Nabeul",
+        "x": 617.0098,
+        "baseline": 1105.0,
+        "font_size": 18.0,
+        "font_family": "p03r033",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r034-l1",
+        "text": "Feb. 2025",
+        "x": 687.2412,
+        "baseline": 1105.0,
+        "font_size": 18.0,
+        "font_family": "p03r034",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r035-l1",
+        "text": "Paris",
+        "x": 869.3955,
+        "baseline": 1054.0,
+        "font_size": 18.0,
+        "font_family": "p03r035",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r036-l1",
+        "text": "Bangkok",
+        "x": 837.2412,
+        "baseline": 1105.0,
+        "font_size": 18.0,
+        "font_family": "p03r036",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r037-l1",
+        "text": "Mar. 2025",
+        "x": 922.127,
+        "baseline": 1054.0,
+        "font_size": 18.0,
+        "font_family": "p03r037",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r038-l1",
+        "text": "Feb. 2025",
+        "x": 922.2412,
+        "baseline": 1105.0,
+        "font_size": 18.0,
+        "font_family": "p03r038",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r039-l1",
+        "text": "2025",
+        "x": 1047.0488,
+        "baseline": 1157.5,
+        "font_size": 18.0,
+        "font_family": "p03r039",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r040-l1",
+        "text": "Casablanca",
+        "x": 337.2412,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r040",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r041-l1",
+        "text": "Nov. 2024",
+        "x": 449.1602,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r041",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r042-l1",
+        "text": "Bangkok",
+        "x": 601.2412,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r042",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r043-l1",
+        "text": "Nov. 2024",
+        "x": 686.1602,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r043",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r044-l1",
+        "text": "Kuala Lumpur",
+        "x": 585.1367,
+        "baseline": 1306.0,
+        "font_size": 18.0,
+        "font_family": "p03r044",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r045-l1",
+        "text": "Oct. 2024",
+        "x": 714.1807,
+        "baseline": 1306.0,
+        "font_size": 18.0,
+        "font_family": "p03r045",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r046-l1",
+        "text": "Da Nang",
+        "x": 838.0156,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r046",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r047-l1",
+        "text": "Nov. 2024",
+        "x": 920.1602,
+        "baseline": 1257.0,
+        "font_size": 18.0,
+        "font_family": "p03r047",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r048-l1",
+        "text": "Hanoi",
+        "x": 863.4942,
+        "baseline": 1306.0,
+        "font_size": 18.0,
+        "font_family": "p03r048",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r049-l1",
+        "text": "Oct. 2024",
+        "x": 923.1807,
+        "baseline": 1306.0,
+        "font_size": 18.0,
+        "font_family": "p03r049",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r050-l1",
+        "text": "Tunis",
+        "x": 857.4531,
+        "baseline": 1355.0,
+        "font_size": 18.0,
+        "font_family": "p03r050",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r051-l1",
+        "text": "Sept. 2024",
+        "x": 914.1016,
+        "baseline": 1355.0,
+        "font_size": 18.0,
+        "font_family": "p03r051",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r052-l1",
+        "text": "Rouen",
+        "x": 853.0772,
+        "baseline": 1506.0,
+        "font_size": 18.0,
+        "font_family": "p03r052",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r053-l1",
+        "text": "June 2024",
+        "x": 917.1924,
+        "baseline": 1506.0,
+        "font_size": 18.0,
+        "font_family": "p03r053",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p03-r054-l1",
+        "text": "More on",
+        "x": 136.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p03r054",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r055-l1",
+        "text": "forkit.community",
+        "x": 214.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p03r055",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r056-l1",
+        "text": "Page",
+        "x": 1030.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p03r056",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p03-r057-l1",
+        "text": "3",
+        "x": 1082.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p03r057",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Fork it! Tunis on April 18, 2026",
+    "lines": [
+      {
+        "id": "p04-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p04r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r002-l1",
+        "text": "Fork it! Tunis on April 18, 2026",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p04r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r003-l1",
+        "text": "Fork it! Tunis 2026 took place on April 18 at City of Culture in Tunis, ",
+        "x": 95.0,
+        "baseline": 277.0,
+        "font_size": 18.0,
+        "font_family": "p04r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r003-l2",
+        "text": "bringing together the local and international tech community for a full day ",
+        "x": 95.0,
+        "baseline": 304.0,
+        "font_size": 18.0,
+        "font_family": "p04r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r003-l3",
+        "text": "of practical, experience-driven talks. This second full-day edition in Tunisia ",
+        "x": 95.0,
+        "baseline": 331.0,
+        "font_size": 18.0,
+        "font_family": "p04r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r003-l4",
+        "text": "gathered more than 170 attendees: developers, designers, Product ",
+        "x": 95.0,
+        "baseline": 358.0,
+        "font_size": 18.0,
+        "font_family": "p04r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r003-l5",
+        "text": "Managers, students, and founders.",
+        "x": 95.0,
+        "baseline": 385.0,
+        "font_size": 18.0,
+        "font_family": "p04r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l1",
+        "text": "Built on a “no bullshit” approach, the event focused on real-world insights ",
+        "x": 95.0,
+        "baseline": 420.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l2",
+        "text": "from production, covering topics such as architecture, AI, Web3, and modern ",
+        "x": 95.0,
+        "baseline": 447.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l3",
+        "text": "development practices. With 8 talks from 12 speakers, the conference ",
+        "x": 95.0,
+        "baseline": 474.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l4",
+        "text": "combined high-quality content with strong networking moments throughout ",
+        "x": 95.0,
+        "baseline": 501.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l5",
+        "text": "the day. The event was supported by multiple sponsors and partners, ",
+        "x": 95.0,
+        "baseline": 528.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r004-l6",
+        "text": "contributing to its overall success and impact.",
+        "x": 95.0,
+        "baseline": 555.0,
+        "font_size": 18.0,
+        "font_family": "p04r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r005-l1",
+        "text": "Big thanks to Camel Studio, TinkerView, baksla.sh, Ysely, and partners ",
+        "x": 95.0,
+        "baseline": 590.0,
+        "font_size": 18.0,
+        "font_family": "p04r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r005-l2",
+        "text": "CWCloud, 9Rayty, GDG Issam, The Pulse Digital Hub, Inceptum Junior ",
+        "x": 95.0,
+        "baseline": 617.0,
+        "font_size": 18.0,
+        "font_family": "p04r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r005-l3",
+        "text": "Entreprise.",
+        "x": 95.0,
+        "baseline": 644.0,
+        "font_size": 18.0,
+        "font_family": "p04r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r006-l1",
+        "text": "Want to see more heck out the ",
+        "x": 95.0,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r007-l1",
+        "text": "?C",
+        "x": 244.3613,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r008-l1",
+        "text": "photo gallery",
+        "x": 383.3867,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r008",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r009-l1",
+        "text": " and ",
+        "x": 495.1133,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r010-l1",
+        "text": "all VODs",
+        "x": 537.0899,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r010",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r011-l1",
+        "text": ".",
+        "x": 608.4395,
+        "baseline": 687.0,
+        "font_size": 18.0,
+        "font_family": "p04r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r012-l1",
+        "text": "12",
+        "x": 841.7696,
+        "baseline": 380.0,
+        "font_size": 30.0,
+        "font_family": "p04r012",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r013-l1",
+        "text": "SPEAKERS",
+        "x": 822.0156,
+        "baseline": 402.0,
+        "font_size": 14.0,
+        "font_family": "p04r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r014-l1",
+        "text": "4",
+        "x": 848.4639,
+        "baseline": 518.0,
+        "font_size": 30.0,
+        "font_family": "p04r014",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r015-l1",
+        "text": "SPONSORS",
+        "x": 819.5069,
+        "baseline": 540.0,
+        "font_size": 14.0,
+        "font_family": "p04r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r016-l1",
+        "text": "1",
+        "x": 994.6729,
+        "baseline": 380.0,
+        "font_size": 30.0,
+        "font_family": "p04r016",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r017-l1",
+        "text": "5+",
+        "x": 1007.5928,
+        "baseline": 380.0,
+        "font_size": 30.0,
+        "font_family": "p04r017",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r018-l1",
+        "text": "COUNTRIES",
+        "x": 979.4014,
+        "baseline": 402.0,
+        "font_size": 14.0,
+        "font_family": "p04r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r019-l1",
+        "text": "10",
+        "x": 986.0889,
+        "baseline": 518.0,
+        "font_size": 30.0,
+        "font_family": "p04r019",
+        "color": "#171717"
+      },
+      {
+        "id": "p04-r020-l1",
+        "text": "7+",
+        "x": 999.0088,
+        "baseline": 518.0,
+        "font_size": 30.0,
+        "font_family": "p04r020",
+        "color": "#171717"
+      },
+      {
+        "id": "p04-r021-l1",
+        "text": "ATTENDEES",
+        "x": 979.1416,
+        "baseline": 540.0,
+        "font_size": 14.0,
+        "font_family": "p04r021",
+        "color": "#171717"
+      },
+      {
+        "id": "p04-r022-l1",
+        "text": "Ofh",
+        "x": 95.0,
+        "baseline": 1301.0,
+        "font_size": 30.0,
+        "font_family": "p04r022",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r023-l1",
+        "text": "ur sponsors or tis event",
+        "x": 116.0938,
+        "baseline": 1301.0,
+        "font_size": 30.0,
+        "font_family": "p04r023",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r024-l1",
+        "text": "SE",
+        "x": 186.2515,
+        "baseline": 1537.0582,
+        "font_size": 15.614956,
+        "font_family": "p04r024",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r025-l1",
+        "text": "ILVR",
+        "x": 196.7123,
+        "baseline": 1537.0582,
+        "font_size": 15.614956,
+        "font_family": "p04r025",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r026-l1",
+        "text": "More on",
+        "x": 136.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p04r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r027-l1",
+        "text": "forkit.community",
+        "x": 214.8162,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p04r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r028-l1",
+        "text": "SE",
+        "x": 439.6118,
+        "baseline": 1537.0582,
+        "font_size": 15.614956,
+        "font_family": "p04r028",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r029-l1",
+        "text": "ILVR",
+        "x": 450.0726,
+        "baseline": 1537.0582,
+        "font_size": 15.614956,
+        "font_family": "p04r029",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p04-r030-l1",
+        "text": "Bronze",
+        "x": 689.6104,
+        "baseline": 1536.8286,
+        "font_size": 15.614956,
+        "font_family": "p04r030",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r031-l1",
+        "text": "Bronze",
+        "x": 943.2417,
+        "baseline": 1536.8286,
+        "font_size": 15.614956,
+        "font_family": "p04r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r032-l1",
+        "text": "Page",
+        "x": 1030.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p04r032",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p04-r033-l1",
+        "text": "4",
+        "x": 1082.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p04r033",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Fork it! Tunis — April or May 2027",
+    "lines": [
+      {
+        "id": "p05-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p05r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r002-l1",
+        "text": "Fork it! Tunis — April or May 2027",
+        "x": 95.0,
+        "baseline": 243.0,
+        "font_size": 30.0,
+        "font_family": "p05r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r003-l1",
+        "text": "Fork it! Tunis 2027 will bring together an expected audience of 150–200+ ",
+        "x": 95.0,
+        "baseline": 289.0,
+        "font_size": 18.0,
+        "font_family": "p05r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r003-l2",
+        "text": "attendees and 10–12 speakers for a full day of talks, workshops, ",
+        "x": 95.0,
+        "baseline": 316.0,
+        "font_size": 18.0,
+        "font_family": "p05r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r003-l3",
+        "text": "networking, and knowledge sharing.",
+        "x": 95.0,
+        "baseline": 343.0,
+        "font_size": 18.0,
+        "font_family": "p05r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r004-l1",
+        "text": "This event is designed to facilitate the sharing of concrete experiences and ",
+        "x": 95.0,
+        "baseline": 386.0,
+        "font_size": 18.0,
+        "font_family": "p05r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r004-l2",
+        "text": "practical know-how within Tunis’s diverse tech community, encompassing ",
+        "x": 95.0,
+        "baseline": 413.0,
+        "font_size": 18.0,
+        "font_family": "p05r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r004-l3",
+        "text": "engineers and C-level professionals.",
+        "x": 95.0,
+        "baseline": 440.0,
+        "font_size": 18.0,
+        "font_family": "p05r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r005-l1",
+        "text": "The goal is to foster direct and relevant exchanges that enrich all attendees.",
+        "x": 95.0,
+        "baseline": 483.0,
+        "font_size": 18.0,
+        "font_family": "p05r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r006-l1",
+        "text": "10-12",
+        "x": 818.1856,
+        "baseline": 263.0,
+        "font_size": 30.0,
+        "font_family": "p05r006",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r007-l1",
+        "text": "EXPECTED ",
+        "x": 821.4483,
+        "baseline": 285.0,
+        "font_size": 14.0,
+        "font_family": "p05r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r007-l2",
+        "text": "SPEAKERS",
+        "x": 822.0156,
+        "baseline": 306.0,
+        "font_size": 14.0,
+        "font_family": "p05r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r008-l1",
+        "text": "3-5",
+        "x": 831.7793,
+        "baseline": 422.0,
+        "font_size": 30.0,
+        "font_family": "p05r008",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r009-l1",
+        "text": "EXPECTED ",
+        "x": 821.4483,
+        "baseline": 444.0,
+        "font_size": 14.0,
+        "font_family": "p05r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r009-l2",
+        "text": "BOOTHS",
+        "x": 828.6192,
+        "baseline": 465.0,
+        "font_size": 14.0,
+        "font_family": "p05r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r010-l1",
+        "text": "15+",
+        "x": 994.6729,
+        "baseline": 273.5,
+        "font_size": 30.0,
+        "font_family": "p05r010",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r011-l1",
+        "text": "COUNTRIES",
+        "x": 979.4014,
+        "baseline": 295.5,
+        "font_size": 14.0,
+        "font_family": "p05r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r012-l1",
+        "text": "150+",
+        "x": 984.5947,
+        "baseline": 422.0,
+        "font_size": 30.0,
+        "font_family": "p05r012",
+        "color": "#171717"
+      },
+      {
+        "id": "p05-r013-l1",
+        "text": "EXPECTED ",
+        "x": 983.4483,
+        "baseline": 444.0,
+        "font_size": 14.0,
+        "font_family": "p05r013",
+        "color": "#171717"
+      },
+      {
+        "id": "p05-r013-l2",
+        "text": "ATTENDEES",
+        "x": 979.1416,
+        "baseline": 465.0,
+        "font_size": 14.0,
+        "font_family": "p05r013",
+        "color": "#171717"
+      },
+      {
+        "id": "p05-r014-l1",
+        "text": "Visitors and speakers from the community around the world",
+        "x": 95.0,
+        "baseline": 601.0,
+        "font_size": 30.0,
+        "font_family": "p05r014",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r015-l1",
+        "text": "France",
+        "x": 108.5,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r016-l1",
+        "text": "Belgium",
+        "x": 224.0,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r016",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r017-l1",
+        "text": "Morocco",
+        "x": 341.0,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r017",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r018-l1",
+        "text": "Tunisia",
+        "x": 468.0,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r019-l1",
+        "text": "Vietnam",
+        "x": 583.0,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r020-l1",
+        "text": "Thailand",
+        "x": 702.0,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r021-l1",
+        "text": "Malaysia",
+        "x": 821.5,
+        "baseline": 717.0,
+        "font_size": 16.0,
+        "font_family": "p05r021",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r022-l1",
+        "text": "Tunis",
+        "x": 313.2969,
+        "baseline": 802.0,
+        "font_size": 14.0,
+        "font_family": "p05r022",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p05-r023-l1",
+        "text": "Schedule of the event",
+        "x": 95.0,
+        "baseline": 1113.0,
+        "font_size": 30.0,
+        "font_family": "p05r023",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p05-r024-l1",
+        "text": "Welcome",
+        "x": 119.0,
+        "baseline": 1194.0,
+        "font_size": 20.0,
+        "font_family": "p05r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r025-l1",
+        "text": "Registration and welcome",
+        "x": 119.0,
+        "baseline": 1217.0,
+        "font_size": 14.0,
+        "font_family": "p05r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r026-l1",
+        "text": "C,",
+        "x": 119.0,
+        "baseline": 1289.0,
+        "font_size": 20.0,
+        "font_family": "p05r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r027-l1",
+        "text": "onferences Workshops",
+        "x": 131.9883,
+        "baseline": 1289.0,
+        "font_size": 20.0,
+        "font_family": "p05r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r028-l1",
+        "text": "Learn, share and connect",
+        "x": 119.0,
+        "baseline": 1312.0,
+        "font_size": 14.0,
+        "font_family": "p05r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r029-l1",
+        "text": "Ng",
+        "x": 119.0,
+        "baseline": 1384.0,
+        "font_size": 20.0,
+        "font_family": "p05r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r030-l1",
+        "text": "etworkin cocktail",
+        "x": 133.7852,
+        "baseline": 1384.0,
+        "font_size": 20.0,
+        "font_family": "p05r030",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r031-l1",
+        "text": "Informal networking with speakers and attendees",
+        "x": 119.0,
+        "baseline": 1407.0,
+        "font_size": 14.0,
+        "font_family": "p05r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r032-l1",
+        "text": "Rb",
+        "x": 119.0,
+        "baseline": 1479.0,
+        "font_size": 20.0,
+        "font_family": "p05r032",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r033-l1",
+        "text": "oundtale",
+        "x": 132.6719,
+        "baseline": 1479.0,
+        "font_size": 20.0,
+        "font_family": "p05r033",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r034-l1",
+        "text": "Open discussion with the community",
+        "x": 119.0,
+        "baseline": 1502.0,
+        "font_size": 14.0,
+        "font_family": "p05r034",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r035-l1",
+        "text": "City of Culture (confirmation currently under discussion)",
+        "x": 611.0,
+        "baseline": 1503.0,
+        "font_size": 14.0,
+        "font_family": "p05r035",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r035-l2",
+        "text": "AM",
+        "x": 611.0,
+        "baseline": 1524.0,
+        "font_size": 14.0,
+        "font_family": "p05r035",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r036-l1",
+        "text": "v. ohamed 5, Tunis",
+        "x": 619.5039,
+        "baseline": 1524.0,
+        "font_size": 14.0,
+        "font_family": "p05r036",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r037-l1",
+        "text": "More on",
+        "x": 136.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p05r037",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r038-l1",
+        "text": "forkit.community",
+        "x": 214.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p05r038",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r039-l1",
+        "text": "Page",
+        "x": 1031.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p05r039",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p05-r040-l1",
+        "text": "5",
+        "x": 1083.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p05r040",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Main partners for Fork it! Tunis 2027",
+    "lines": [
+      {
+        "id": "p06-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p06r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r002-l1",
+        "text": "Main partners for Fork it! Tunis 2027",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p06r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p06-r003-l1",
+        "text": "Our main partners play a crucial role in supporting the organisation and ",
+        "x": 95.0,
+        "baseline": 269.0,
+        "font_size": 18.0,
+        "font_family": "p06r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r003-l2",
+        "text": "growth of Fork it! Tunis 2027, providing essential contributions that help ",
+        "x": 95.0,
+        "baseline": 296.0,
+        "font_size": 18.0,
+        "font_family": "p06r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r003-l3",
+        "text": "deliver a high-quality experience for attendees, speakers, and sponsors.",
+        "x": 95.0,
+        "baseline": 323.0,
+        "font_size": 18.0,
+        "font_family": "p06r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r004-l1",
+        "text": "Join Us",
+        "x": 198.9108,
+        "baseline": 451.0,
+        "font_size": 30.0,
+        "font_family": "p06r004",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p06-r005-l1",
+        "text": "Be our next partner!",
+        "x": 186.8317,
+        "baseline": 477.0,
+        "font_size": 14.0,
+        "font_family": "p06r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r006-l1",
+        "text": "Join Us",
+        "x": 540.2443,
+        "baseline": 451.0,
+        "font_size": 30.0,
+        "font_family": "p06r006",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p06-r007-l1",
+        "text": "Be our next partner!",
+        "x": 528.1652,
+        "baseline": 477.0,
+        "font_size": 14.0,
+        "font_family": "p06r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r008-l1",
+        "text": "Join Us",
+        "x": 881.5774,
+        "baseline": 451.0,
+        "font_size": 30.0,
+        "font_family": "p06r008",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p06-r009-l1",
+        "text": "Be our next partner!",
+        "x": 869.4982,
+        "baseline": 477.0,
+        "font_size": 14.0,
+        "font_family": "p06r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r010-l1",
+        "text": "Some of our partners and sponsors",
+        "x": 95.0,
+        "baseline": 603.0,
+        "font_size": 30.0,
+        "font_family": "p06r010",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p06-r011-l1",
+        "text": "Our strategic partners and sponsors are the driving force behind Fork it! ",
+        "x": 95.0,
+        "baseline": 641.0,
+        "font_size": 18.0,
+        "font_family": "p06r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r011-l2",
+        "text": "Community’s long-term success, far beyond a single event. Their ongoing ",
+        "x": 95.0,
+        "baseline": 668.0,
+        "font_size": 18.0,
+        "font_family": "p06r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r011-l3",
+        "text": "support fuels our mission.",
+        "x": 95.0,
+        "baseline": 695.0,
+        "font_size": 18.0,
+        "font_family": "p06r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r012-l1",
+        "text": "500+ attendees",
+        "x": 307.0,
+        "baseline": 781.0,
+        "font_size": 16.0,
+        "font_family": "p06r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r013-l1",
+        "text": "A",
+        "x": 307.0,
+        "baseline": 815.0,
+        "font_size": 16.0,
+        "font_family": "p06r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r014-l1",
+        "text": "nnual conference in Paris",
+        "x": 317.8125,
+        "baseline": 815.0,
+        "font_size": 16.0,
+        "font_family": "p06r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r015-l1",
+        "text": "D",
+        "x": 307.0,
+        "baseline": 849.0,
+        "font_size": 16.0,
+        "font_family": "p06r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r015-l2",
+        "text": "j",
+        "x": 439.6563,
+        "baseline": 873.0,
+        "font_size": 16.0,
+        "font_family": "p06r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r016-l1",
+        "text": "iverse Speaker Lineup on a big ",
+        "x": 318.5,
+        "baseline": 849.0,
+        "font_size": 16.0,
+        "font_family": "p06r016",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r016-l2",
+        "text": "variety of hot subects",
+        "x": 307.0,
+        "baseline": 873.0,
+        "font_size": 16.0,
+        "font_family": "p06r016",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r017-l1",
+        "text": "A",
+        "x": 819.0,
+        "baseline": 772.0,
+        "font_size": 16.0,
+        "font_family": "p06r017",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r018-l1",
+        "text": "nnual conference with 1,000 ",
+        "x": 829.8125,
+        "baseline": 772.0,
+        "font_size": 16.0,
+        "font_family": "p06r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r018-l2",
+        "text": "participants",
+        "x": 819.0,
+        "baseline": 796.0,
+        "font_size": 16.0,
+        "font_family": "p06r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r019-l1",
+        "text": "2,200+ members in the meetup ",
+        "x": 819.0,
+        "baseline": 828.0,
+        "font_size": 16.0,
+        "font_family": "p06r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r019-l2",
+        "text": "community",
+        "x": 819.0,
+        "baseline": 852.0,
+        "font_size": 16.0,
+        "font_family": "p06r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r020-l1",
+        "text": "Software development topics",
+        "x": 819.0,
+        "baseline": 884.0,
+        "font_size": 16.0,
+        "font_family": "p06r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r021-l1",
+        "text": "Europe's leading JavaScript ",
+        "x": 307.0,
+        "baseline": 988.0,
+        "font_size": 16.0,
+        "font_family": "p06r021",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r021-l2",
+        "text": "conference",
+        "x": 307.0,
+        "baseline": 1012.0,
+        "font_size": 16.0,
+        "font_family": "p06r021",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r022-l1",
+        "text": "Prominent figures in the ",
+        "x": 307.0,
+        "baseline": 1044.0,
+        "font_size": 16.0,
+        "font_family": "p06r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r022-l2",
+        "text": "JavaScript community",
+        "x": 307.0,
+        "baseline": 1068.0,
+        "font_size": 16.0,
+        "font_family": "p06r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r023-l1",
+        "text": "+1,500 attendees per day",
+        "x": 307.0,
+        "baseline": 1100.0,
+        "font_size": 16.0,
+        "font_family": "p06r023",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r024-l1",
+        "text": "Belgium’s Leading JavaScript ",
+        "x": 819.0,
+        "baseline": 977.0,
+        "font_size": 16.0,
+        "font_family": "p06r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r024-l2",
+        "text": "Community",
+        "x": 819.0,
+        "baseline": 1001.0,
+        "font_size": 16.0,
+        "font_family": "p06r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r025-l1",
+        "text": "Top speakers from etflix, ",
+        "x": 819.0,
+        "baseline": 1033.0,
+        "font_size": 16.0,
+        "font_family": "p06r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r025-l2",
+        "text": "Cloudflare, and Builder.io",
+        "x": 819.0,
+        "baseline": 1057.0,
+        "font_size": 16.0,
+        "font_family": "p06r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r026-l1",
+        "text": "N",
+        "x": 964.1094,
+        "baseline": 1033.0,
+        "font_size": 16.0,
+        "font_family": "p06r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r027-l1",
+        "text": "A",
+        "x": 819.0,
+        "baseline": 1089.0,
+        "font_size": 16.0,
+        "font_family": "p06r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r028-l1",
+        "text": "udience made of tech ",
+        "x": 829.8125,
+        "baseline": 1089.0,
+        "font_size": 16.0,
+        "font_family": "p06r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r028-l2",
+        "text": "professionals",
+        "x": 819.0,
+        "baseline": 1113.0,
+        "font_size": 16.0,
+        "font_family": "p06r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r029-l1",
+        "text": "I",
+        "x": 307.0,
+        "baseline": 1202.0,
+        "font_size": 16.0,
+        "font_family": "p06r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r030-l1",
+        "text": "nternational Conference",
+        "x": 311.2344,
+        "baseline": 1202.0,
+        "font_size": 16.0,
+        "font_family": "p06r030",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r031-l1",
+        "text": "200+ attendees per event in ",
+        "x": 307.0,
+        "baseline": 1236.0,
+        "font_size": 16.0,
+        "font_family": "p06r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r031-l2",
+        "text": "person  virtual participants",
+        "x": 307.0,
+        "baseline": 1260.0,
+        "font_size": 16.0,
+        "font_family": "p06r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r032-l1",
+        "text": "+",
+        "x": 363.7813,
+        "baseline": 1260.0,
+        "font_size": 16.0,
+        "font_family": "p06r032",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r033-l1",
+        "text": "Backed up by maor tech ",
+        "x": 307.0,
+        "baseline": 1292.0,
+        "font_size": 16.0,
+        "font_family": "p06r033",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r033-l2",
+        "text": "communities",
+        "x": 307.0,
+        "baseline": 1316.0,
+        "font_size": 16.0,
+        "font_family": "p06r033",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r034-l1",
+        "text": "j",
+        "x": 436.9531,
+        "baseline": 1292.0,
+        "font_size": 16.0,
+        "font_family": "p06r034",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r035-l1",
+        "text": "A",
+        "x": 823.0,
+        "baseline": 1213.0,
+        "font_size": 16.0,
+        "font_family": "p06r035",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r036-l1",
+        "text": "round 500+ attendees",
+        "x": 833.8125,
+        "baseline": 1213.0,
+        "font_size": 16.0,
+        "font_family": "p06r036",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r037-l1",
+        "text": "First eact conference in London",
+        "x": 823.0,
+        "baseline": 1247.0,
+        "font_size": 16.0,
+        "font_family": "p06r037",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r038-l1",
+        "text": "R",
+        "x": 860.8125,
+        "baseline": 1247.0,
+        "font_size": 16.0,
+        "font_family": "p06r038",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r039-l1",
+        "text": "Community-focused, not-for-",
+        "x": 823.0,
+        "baseline": 1281.0,
+        "font_size": 16.0,
+        "font_family": "p06r039",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r039-l2",
+        "text": "profit event by ed Badger",
+        "x": 823.0,
+        "baseline": 1305.0,
+        "font_size": 16.0,
+        "font_family": "p06r039",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r040-l1",
+        "text": "R",
+        "x": 937.5156,
+        "baseline": 1305.0,
+        "font_size": 16.0,
+        "font_family": "p06r040",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r041-l1",
+        "text": "More on",
+        "x": 136.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p06r041",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r042-l1",
+        "text": "forkit.community",
+        "x": 214.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p06r042",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r043-l1",
+        "text": "Page",
+        "x": 1030.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p06r043",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p06-r044-l1",
+        "text": "6",
+        "x": 1082.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p06r044",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Speakers Featured at Fork it! Tunis 2026",
+    "lines": [
+      {
+        "id": "p07-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 79.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p07r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r002-l1",
+        "text": "Speakers Featured at Fork it! Tunis 2026",
+        "x": 79.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p07r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p07-r003-l1",
+        "text": "Fork it! Tunis 2026 brought together exceptional local talent and renowned ",
+        "x": 79.0,
+        "baseline": 277.0,
+        "font_size": 18.0,
+        "font_family": "p07r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r003-l2",
+        "text": "international professionals. By connecting people from across the region ",
+        "x": 79.0,
+        "baseline": 304.0,
+        "font_size": 18.0,
+        "font_family": "p07r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r003-l3",
+        "text": "and around the world, the event fostered meaningful exchanges and ",
+        "x": 79.0,
+        "baseline": 331.0,
+        "font_size": 18.0,
+        "font_family": "p07r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r003-l4",
+        "text": "created a lasting impact.",
+        "x": 79.0,
+        "baseline": 358.0,
+        "font_size": 18.0,
+        "font_family": "p07r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r004-l1",
+        "text": "Marwen Essalah",
+        "x": 95.5103,
+        "baseline": 431.51,
+        "font_size": 16.0,
+        "font_family": "p07r004",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r005-l1",
+        "text": "Ivan Dalmet",
+        "x": 619.5103,
+        "baseline": 431.51,
+        "font_size": 16.0,
+        "font_family": "p07r005",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r006-l1",
+        "text": "Founder at Etikks ",
+        "x": 95.5103,
+        "baseline": 455.1141,
+        "font_size": 10.0,
+        "font_family": "p07r006",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r006-l2",
+        "text": "& Space Academy",
+        "x": 95.5103,
+        "baseline": 469.1141,
+        "font_size": 10.0,
+        "font_family": "p07r006",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r007-l1",
+        "text": "Co-founder and ",
+        "x": 619.5103,
+        "baseline": 455.1141,
+        "font_size": 10.0,
+        "font_family": "p07r007",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r007-l2",
+        "text": "Lead Designer",
+        "x": 619.5103,
+        "baseline": 469.1141,
+        "font_size": 10.0,
+        "font_family": "p07r007",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r008-l1",
+        "text": "Etikks",
+        "x": 95.5103,
+        "baseline": 509.5705,
+        "font_size": 10.0,
+        "font_family": "p07r008",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r009-l1",
+        "text": "BearStudio",
+        "x": 619.5103,
+        "baseline": 509.5705,
+        "font_size": 10.0,
+        "font_family": "p07r009",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r010-l1",
+        "text": "Sami Belhadj",
+        "x": 95.5103,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r010",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r011-l1",
+        "text": "Ai Ouertani",
+        "x": 619.5103,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r011",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r012-l1",
+        "text": "zz",
+        "x": 630.3228,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r012",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r013-l1",
+        "text": "Software Delivery ",
+        "x": 95.5103,
+        "baseline": 597.114,
+        "font_size": 10.0,
+        "font_family": "p07r013",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r013-l2",
+        "text": "Manager",
+        "x": 95.5103,
+        "baseline": 611.114,
+        "font_size": 10.0,
+        "font_family": "p07r013",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r014-l1",
+        "text": "Sales & Backend ",
+        "x": 619.5103,
+        "baseline": 597.114,
+        "font_size": 10.0,
+        "font_family": "p07r014",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r014-l2",
+        "text": "developer",
+        "x": 619.5103,
+        "baseline": 611.114,
+        "font_size": 10.0,
+        "font_family": "p07r014",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r015-l1",
+        "text": "ODDO BHF",
+        "x": 95.5103,
+        "baseline": 651.5706,
+        "font_size": 10.0,
+        "font_family": "p07r015",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r016-l1",
+        "text": "BearStudio",
+        "x": 619.5103,
+        "baseline": 651.5706,
+        "font_size": 10.0,
+        "font_family": "p07r016",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r017-l1",
+        "text": "Tiffany Souterre",
+        "x": 95.5103,
+        "baseline": 715.5101,
+        "font_size": 16.0,
+        "font_family": "p07r017",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r018-l1",
+        "text": "Eya Laouini",
+        "x": 619.5103,
+        "baseline": 715.5101,
+        "font_size": 16.0,
+        "font_family": "p07r018",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r019-l1",
+        "text": "Senior Developer ",
+        "x": 95.5103,
+        "baseline": 739.1141,
+        "font_size": 10.0,
+        "font_family": "p07r019",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r019-l2",
+        "text": "Advocate",
+        "x": 95.5103,
+        "baseline": 753.1141,
+        "font_size": 10.0,
+        "font_family": "p07r019",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r020-l1",
+        "text": "AI Engineer & Google ",
+        "x": 619.5103,
+        "baseline": 739.1141,
+        "font_size": 10.0,
+        "font_family": "p07r020",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r020-l2",
+        "text": "Developer Epert",
+        "x": 619.5103,
+        "baseline": 753.1141,
+        "font_size": 10.0,
+        "font_family": "p07r020",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r021-l1",
+        "text": "x",
+        "x": 681.8071,
+        "baseline": 753.1141,
+        "font_size": 10.0,
+        "font_family": "p07r021",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r022-l1",
+        "text": "AWS",
+        "x": 95.5103,
+        "baseline": 793.5705,
+        "font_size": 10.0,
+        "font_family": "p07r022",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r023-l1",
+        "text": "Mgb",
+        "x": 619.5103,
+        "baseline": 793.5705,
+        "font_size": 10.0,
+        "font_family": "p07r023",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r024-l1",
+        "text": "anaey",
+        "x": 628.9849,
+        "baseline": 793.5705,
+        "font_size": 10.0,
+        "font_family": "p07r024",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r025-l1",
+        "text": "Oh",
+        "x": 79.0,
+        "baseline": 878.0,
+        "font_size": 30.0,
+        "font_family": "p07r025",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p07-r026-l1",
+        "text": "ter Featured Speakers",
+        "x": 100.0938,
+        "baseline": 878.0,
+        "font_size": 30.0,
+        "font_family": "p07r026",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p07-r027-l1",
+        "text": "Wx",
+        "x": 79.0,
+        "baseline": 924.0,
+        "font_size": 18.0,
+        "font_family": "p07r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r027-l2",
+        "text": "x",
+        "x": 89.2129,
+        "baseline": 951.0,
+        "font_size": 18.0,
+        "font_family": "p07r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r028-l1",
+        "text": "e featured a diverse range of speakers who shared their epertise, ",
+        "x": 95.1719,
+        "baseline": 924.0,
+        "font_size": 18.0,
+        "font_family": "p07r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r028-l2",
+        "text": "eperience, and insights, bringing together local talent and international ",
+        "x": 79.0,
+        "baseline": 951.0,
+        "font_size": 18.0,
+        "font_family": "p07r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r028-l3",
+        "text": "professionals.",
+        "x": 79.0,
+        "baseline": 978.0,
+        "font_size": 18.0,
+        "font_family": "p07r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r029-l1",
+        "text": "Mathias Arlaud",
+        "x": 357.5103,
+        "baseline": 431.51,
+        "font_size": 16.0,
+        "font_family": "p07r029",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r030-l1",
+        "text": "Symfony Core Team",
+        "x": 357.5103,
+        "baseline": 455.1141,
+        "font_size": 10.0,
+        "font_family": "p07r030",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r030-l2",
+        "text": "Co-Founder & COO",
+        "x": 357.5103,
+        "baseline": 469.1141,
+        "font_size": 10.0,
+        "font_family": "p07r030",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r031-l1",
+        "text": "Bakslash",
+        "x": 357.5103,
+        "baseline": 509.5705,
+        "font_size": 10.0,
+        "font_family": "p07r031",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r032-l1",
+        "text": "Olivier Leplus",
+        "x": 357.5103,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r032",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r033-l1",
+        "text": "Developer Advocate",
+        "x": 357.5103,
+        "baseline": 597.114,
+        "font_size": 10.0,
+        "font_family": "p07r033",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r034-l1",
+        "text": "AWS",
+        "x": 357.5103,
+        "baseline": 651.5706,
+        "font_size": 10.0,
+        "font_family": "p07r034",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r035-l1",
+        "text": "Ai Becha",
+        "x": 357.5103,
+        "baseline": 742.7383,
+        "font_size": 16.0,
+        "font_family": "p07r035",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r036-l1",
+        "text": "zz",
+        "x": 368.3228,
+        "baseline": 742.7383,
+        "font_size": 16.0,
+        "font_family": "p07r036",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r037-l1",
+        "text": "Software Developer",
+        "x": 357.5103,
+        "baseline": 766.3423,
+        "font_size": 10.0,
+        "font_family": "p07r037",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r038-l1",
+        "text": "Nicolas Grekas",
+        "x": 881.5098,
+        "baseline": 431.51,
+        "font_size": 16.0,
+        "font_family": "p07r038",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r039-l1",
+        "text": "Symfony Core Team",
+        "x": 881.5098,
+        "baseline": 455.1141,
+        "font_size": 10.0,
+        "font_family": "p07r039",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r040-l1",
+        "text": "Symfony",
+        "x": 881.5098,
+        "baseline": 509.5705,
+        "font_size": 10.0,
+        "font_family": "p07r040",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r041-l1",
+        "text": "Y",
+        "x": 881.5098,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r041",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r042-l1",
+        "text": "asser Foudhil",
+        "x": 891.0098,
+        "baseline": 573.51,
+        "font_size": 16.0,
+        "font_family": "p07r042",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r043-l1",
+        "text": "Delivery Manager",
+        "x": 881.5098,
+        "baseline": 597.114,
+        "font_size": 10.0,
+        "font_family": "p07r043",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r044-l1",
+        "text": "ODDO BHF",
+        "x": 881.5098,
+        "baseline": 651.5706,
+        "font_size": 10.0,
+        "font_family": "p07r044",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r045-l1",
+        "text": "Y",
+        "x": 881.5098,
+        "baseline": 715.5101,
+        "font_size": 16.0,
+        "font_family": "p07r045",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r046-l1",
+        "text": "assine ",
+        "x": 891.0098,
+        "baseline": 715.5101,
+        "font_size": 16.0,
+        "font_family": "p07r046",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r046-l2",
+        "text": "Benabbas",
+        "x": 881.5098,
+        "baseline": 739.5101,
+        "font_size": 16.0,
+        "font_family": "p07r046",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r047-l1",
+        "text": "P",
+        "x": 881.5098,
+        "baseline": 763.1141,
+        "font_size": 10.0,
+        "font_family": "p07r047",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r048-l1",
+        "text": "hD, teacher, and ",
+        "x": 888.3574,
+        "baseline": 763.1141,
+        "font_size": 10.0,
+        "font_family": "p07r048",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r048-l2",
+        "text": "Software Development C",
+        "x": 881.5098,
+        "baseline": 777.1141,
+        "font_size": 10.0,
+        "font_family": "p07r048",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r049-l1",
+        "text": "Worldline",
+        "x": 881.5098,
+        "baseline": 793.5705,
+        "font_size": 10.0,
+        "font_family": "p07r049",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r050-l1",
+        "text": "Nisrine ",
+        "x": 95.5103,
+        "baseline": 1051.5101,
+        "font_size": 16.0,
+        "font_family": "p07r050",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r050-l2",
+        "text": "amdouni",
+        "x": 107.354,
+        "baseline": 1075.5101,
+        "font_size": 16.0,
+        "font_family": "p07r050",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r051-l1",
+        "text": "H",
+        "x": 95.5103,
+        "baseline": 1075.5101,
+        "font_size": 16.0,
+        "font_family": "p07r051",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r052-l1",
+        "text": "Ba Ngoc ",
+        "x": 357.5103,
+        "baseline": 1051.5101,
+        "font_size": 16.0,
+        "font_family": "p07r052",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r053-l1",
+        "text": "Michel Boretti",
+        "x": 619.5103,
+        "baseline": 1051.5101,
+        "font_size": 16.0,
+        "font_family": "p07r053",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r054-l1",
+        "text": "Founder & Google ",
+        "x": 357.5103,
+        "baseline": 1075.1141,
+        "font_size": 10.0,
+        "font_family": "p07r054",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r054-l2",
+        "text": "Developer Eper",
+        "x": 357.5103,
+        "baseline": 1089.1141,
+        "font_size": 10.0,
+        "font_family": "p07r054",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r055-l1",
+        "text": "xt",
+        "x": 419.8071,
+        "baseline": 1089.1141,
+        "font_size": 10.0,
+        "font_family": "p07r055",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r056-l1",
+        "text": "Founder",
+        "x": 619.5103,
+        "baseline": 1075.1141,
+        "font_size": 10.0,
+        "font_family": "p07r056",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r057-l1",
+        "text": "Aliation Deeloment ",
+        "x": 619.5103,
+        "baseline": 1115.5706,
+        "font_size": 10.0,
+        "font_family": "p07r057",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r057-l2",
+        "text": "Aeny",
+        "x": 619.5103,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r057",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r058-l1",
+        "text": "ppcvp",
+        "x": 627.0122,
+        "baseline": 1115.5706,
+        "font_size": 10.0,
+        "font_family": "p07r058",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r058-l2",
+        "text": "gc",
+        "x": 626.9243,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r058",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r059-l1",
+        "text": "Z",
+        "x": 95.5103,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r059",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r060-l1",
+        "text": "enika",
+        "x": 102.397,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r060",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r061-l1",
+        "text": "PX",
+        "x": 357.5103,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r061",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r062-l1",
+        "text": "roton ",
+        "x": 364.4067,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r062",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r063-l1",
+        "text": "WH",
+        "x": 95.5103,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r063",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r064-l1",
+        "text": "ang aokai",
+        "x": 109.8853,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r064",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r065-l1",
+        "text": "Cdric Du",
+        "x": 357.5103,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r065",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r066-l1",
+        "text": "éé",
+        "x": 369.1509,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r066",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r067-l1",
+        "text": "Q",
+        "x": 619.5103,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r067",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r068-l1",
+        "text": "uentin Adam",
+        "x": 631.6978,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r068",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r069-l1",
+        "text": "Founder ",
+        "x": 95.5103,
+        "baseline": 1217.1141,
+        "font_size": 10.0,
+        "font_family": "p07r069",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r070-l1",
+        "text": "Freelance Tech lea",
+        "x": 357.5103,
+        "baseline": 1217.1141,
+        "font_size": 10.0,
+        "font_family": "p07r070",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r070-l2",
+        "text": "& Full-stack developer",
+        "x": 357.5103,
+        "baseline": 1231.1141,
+        "font_size": 10.0,
+        "font_family": "p07r070",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r071-l1",
+        "text": "d",
+        "x": 455.1724,
+        "baseline": 1217.1141,
+        "font_size": 10.0,
+        "font_family": "p07r071",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r072-l1",
+        "text": "CEO",
+        "x": 619.5103,
+        "baseline": 1217.1141,
+        "font_size": 10.0,
+        "font_family": "p07r072",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r073-l1",
+        "text": "Zc.",
+        "x": 95.5103,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r073",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r074-l1",
+        "text": "intoday",
+        "x": 102.397,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r074",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r075-l1",
+        "text": "Y",
+        "x": 357.5103,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r075",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r076-l1",
+        "text": "sely",
+        "x": 364.1724,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r076",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r077-l1",
+        "text": "CC",
+        "x": 619.5103,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r077",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r078-l1",
+        "text": "leer loud",
+        "x": 627.3638,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r078",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r079-l1",
+        "text": "v",
+        "x": 636.5669,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r079",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r080-l1",
+        "text": "Lorie den Os",
+        "x": 95.5103,
+        "baseline": 1335.5101,
+        "font_size": 16.0,
+        "font_family": "p07r080",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r081-l1",
+        "text": "Tanisha Sharma",
+        "x": 357.5103,
+        "baseline": 1335.5101,
+        "font_size": 16.0,
+        "font_family": "p07r081",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r082-l1",
+        "text": "Clement ",
+        "x": 619.5103,
+        "baseline": 1335.5101,
+        "font_size": 16.0,
+        "font_family": "p07r082",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r082-l2",
+        "text": "Delafargue",
+        "x": 619.5103,
+        "baseline": 1359.5101,
+        "font_size": 16.0,
+        "font_family": "p07r082",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r083-l1",
+        "text": "P",
+        "x": 95.5103,
+        "baseline": 1359.1141,
+        "font_size": 10.0,
+        "font_family": "p07r083",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r084-l1",
+        "text": "roduct Tech Lead",
+        "x": 102.3579,
+        "baseline": 1359.1141,
+        "font_size": 10.0,
+        "font_family": "p07r084",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r085-l1",
+        "text": "AI Developer Advocate",
+        "x": 357.5103,
+        "baseline": 1359.1141,
+        "font_size": 10.0,
+        "font_family": "p07r085",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r086-l1",
+        "text": "Y",
+        "x": 95.5103,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r086",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r087-l1",
+        "text": "seo",
+        "x": 102.1724,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r087",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r088-l1",
+        "text": "p",
+        "x": 120.9282,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r088",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r089-l1",
+        "text": "SurSend",
+        "x": 357.5103,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r089",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r090-l1",
+        "text": "p",
+        "x": 370.8931,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r090",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r091-l1",
+        "text": "Datalo",
+        "x": 619.5103,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r091",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r092-l1",
+        "text": "g",
+        "x": 653.3501,
+        "baseline": 1413.5706,
+        "font_size": 10.0,
+        "font_family": "p07r092",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r093-l1",
+        "text": "leonoin",
+        "x": 881.5098,
+        "baseline": 1421.8189,
+        "font_size": 10.0,
+        "font_family": "p07r093",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r094-l1",
+        "text": "bc",
+        "x": 890.8692,
+        "baseline": 1421.8189,
+        "font_size": 10.0,
+        "font_family": "p07r094",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r095-l1",
+        "text": "And more...",
+        "x": 79.0,
+        "baseline": 1483.0,
+        "font_size": 18.0,
+        "font_family": "p07r095",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r096-l1",
+        "text": "XV",
+        "x": 881.5098,
+        "baseline": 1051.5101,
+        "font_size": 16.0,
+        "font_family": "p07r096",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r096-l2",
+        "text": "W",
+        "x": 881.5098,
+        "baseline": 1075.5101,
+        "font_size": 16.0,
+        "font_family": "p07r096",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r097-l1",
+        "text": "avier an de ",
+        "x": 891.7754,
+        "baseline": 1051.5101,
+        "font_size": 16.0,
+        "font_family": "p07r097",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r097-l2",
+        "text": "oestyne",
+        "x": 895.8848,
+        "baseline": 1075.5101,
+        "font_size": 16.0,
+        "font_family": "p07r097",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r098-l1",
+        "text": "W",
+        "x": 881.5098,
+        "baseline": 1099.1141,
+        "font_size": 10.0,
+        "font_family": "p07r098",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r099-l1",
+        "text": "eb developer",
+        "x": 890.9942,
+        "baseline": 1099.1141,
+        "font_size": 10.0,
+        "font_family": "p07r099",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r100-l1",
+        "text": "T",
+        "x": 881.5098,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r100",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r101-l1",
+        "text": "arides",
+        "x": 887.7813,
+        "baseline": 1129.5706,
+        "font_size": 10.0,
+        "font_family": "p07r101",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r102-l1",
+        "text": "R",
+        "x": 881.5098,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r102",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r103-l1",
+        "text": "obin Chalas",
+        "x": 891.6504,
+        "baseline": 1193.5101,
+        "font_size": 16.0,
+        "font_family": "p07r103",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r104-l1",
+        "text": "Member of the Symfony ",
+        "x": 881.5098,
+        "baseline": 1217.1141,
+        "font_size": 10.0,
+        "font_family": "p07r104",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r104-l2",
+        "text": "Core Team",
+        "x": 881.5098,
+        "baseline": 1231.1141,
+        "font_size": 10.0,
+        "font_family": "p07r104",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r105-l1",
+        "text": "Bakslash",
+        "x": 881.5098,
+        "baseline": 1271.5706,
+        "font_size": 10.0,
+        "font_family": "p07r105",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r106-l1",
+        "text": "Abeba NGE",
+        "x": 881.5098,
+        "baseline": 1335.5101,
+        "font_size": 16.0,
+        "font_family": "p07r106",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r107-l1",
+        "text": "W",
+        "x": 958.9629,
+        "baseline": 1335.5101,
+        "font_size": 16.0,
+        "font_family": "p07r107",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r108-l1",
+        "text": "Front-end developer",
+        "x": 881.5098,
+        "baseline": 1359.1141,
+        "font_size": 10.0,
+        "font_family": "p07r108",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p07-r109-l1",
+        "text": "More on",
+        "x": 136.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p07r109",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r110-l1",
+        "text": "forkit.community",
+        "x": 214.8159,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p07r110",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r111-l1",
+        "text": "Page",
+        "x": 1031.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p07r111",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p07-r112-l1",
+        "text": "7",
+        "x": 1083.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p07r112",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Why partner with Fork it! Community?",
+    "lines": [
+      {
+        "id": "p08-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p08r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r002-l1",
+        "text": "Why partner with Fork it! Community?",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p08r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p08-r003-l1",
+        "text": "Partnering with Fork it! promotes collaboration within the tech ecosystem, ",
+        "x": 95.0,
+        "baseline": 277.0,
+        "font_size": 18.0,
+        "font_family": "p08r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r003-l2",
+        "text": "supports education, and increases visibility for institutions, communities, ",
+        "x": 95.0,
+        "baseline": 304.0,
+        "font_size": 18.0,
+        "font_family": "p08r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r003-l3",
+        "text": "companies, and educational organisations.",
+        "x": 95.0,
+        "baseline": 331.0,
+        "font_size": 18.0,
+        "font_family": "p08r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r004-l1",
+        "text": "For Institutions",
+        "x": 127.0,
+        "baseline": 494.0,
+        "font_size": 24.0,
+        "font_family": "p08r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r005-l1",
+        "text": "Promote global tech collaboration and innovation.",
+        "x": 153.0,
+        "baseline": 536.0,
+        "font_size": 16.0,
+        "font_family": "p08r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r006-l1",
+        "text": "Support education and community-driven initiatives.",
+        "x": 153.0,
+        "baseline": 570.0,
+        "font_size": 16.0,
+        "font_family": "p08r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r007-l1",
+        "text": "Gain visibility and credibility in the tech ecosystem.",
+        "x": 153.0,
+        "baseline": 604.0,
+        "font_size": 16.0,
+        "font_family": "p08r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r008-l1",
+        "text": "For Companies",
+        "x": 639.0,
+        "baseline": 494.0,
+        "font_size": 24.0,
+        "font_family": "p08r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r009-l1",
+        "text": "Access top talent through community engagement.",
+        "x": 665.0,
+        "baseline": 536.0,
+        "font_size": 16.0,
+        "font_family": "p08r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r010-l1",
+        "text": "Amplify brand awareness in the tech sector.",
+        "x": 665.0,
+        "baseline": 570.0,
+        "font_size": 16.0,
+        "font_family": "p08r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r011-l1",
+        "text": "D",
+        "x": 665.0,
+        "baseline": 604.0,
+        "font_size": 16.0,
+        "font_family": "p08r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r012-l1",
+        "text": "emonstrate commitment to tech growth and ",
+        "x": 676.5,
+        "baseline": 604.0,
+        "font_size": 16.0,
+        "font_family": "p08r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r012-l2",
+        "text": "responsibility.",
+        "x": 665.0,
+        "baseline": 628.0,
+        "font_size": 16.0,
+        "font_family": "p08r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r013-l1",
+        "text": "For Tech Community",
+        "x": 127.0,
+        "baseline": 814.0,
+        "font_size": 24.0,
+        "font_family": "p08r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r014-l1",
+        "text": "Connect with experienced professionals from across ",
+        "x": 153.0,
+        "baseline": 856.0,
+        "font_size": 16.0,
+        "font_family": "p08r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r014-l2",
+        "text": "the tech industry.",
+        "x": 153.0,
+        "baseline": 880.0,
+        "font_size": 16.0,
+        "font_family": "p08r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r015-l1",
+        "text": "Showcase innovation and leadership.",
+        "x": 153.0,
+        "baseline": 912.0,
+        "font_size": 16.0,
+        "font_family": "p08r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r016-l1",
+        "text": "Build brand trust and attract partnerships.",
+        "x": 153.0,
+        "baseline": 946.0,
+        "font_size": 16.0,
+        "font_family": "p08r016",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r017-l1",
+        "text": "For Schools and Coworking Spaces",
+        "x": 639.0,
+        "baseline": 814.0,
+        "font_size": 24.0,
+        "font_family": "p08r017",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r018-l1",
+        "text": "Highlight programs and facilities to future tech ",
+        "x": 665.0,
+        "baseline": 856.0,
+        "font_size": 16.0,
+        "font_family": "p08r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r018-l2",
+        "text": "leaders.",
+        "x": 665.0,
+        "baseline": 880.0,
+        "font_size": 16.0,
+        "font_family": "p08r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r019-l1",
+        "text": "Position as innovation and learning hubs.",
+        "x": 665.0,
+        "baseline": 912.0,
+        "font_size": 16.0,
+        "font_family": "p08r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r020-l1",
+        "text": "Foster strong relationships with the tech community.",
+        "x": 665.0,
+        "baseline": 946.0,
+        "font_size": 16.0,
+        "font_family": "p08r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r021-l1",
+        "text": "H",
+        "x": 95.0,
+        "baseline": 1085.0,
+        "font_size": 30.0,
+        "font_family": "p08r021",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p08-r022-l1",
+        "text": "ow your sponsorship helps",
+        "x": 117.0019,
+        "baseline": 1085.0,
+        "font_size": 30.0,
+        "font_family": "p08r022",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p08-r023-l1",
+        "text": "Yq",
+        "x": 95.0,
+        "baseline": 1131.0,
+        "font_size": 18.0,
+        "font_family": "p08r023",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r024-l1",
+        "text": "our support helps us cover the essential costs reuired to deliver the best ",
+        "x": 105.582,
+        "baseline": 1131.0,
+        "font_size": 18.0,
+        "font_family": "p08r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r024-l2",
+        "text": "possible experience for both speakers and attendees.",
+        "x": 95.0,
+        "baseline": 1158.0,
+        "font_size": 18.0,
+        "font_family": "p08r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r025-l1",
+        "text": "R",
+        "x": 135.0,
+        "baseline": 1217.5,
+        "font_size": 18.0,
+        "font_family": "p08r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r026-l1",
+        "text": "enting the venue",
+        "x": 146.4082,
+        "baseline": 1217.5,
+        "font_size": 18.0,
+        "font_family": "p08r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r027-l1",
+        "text": "Accommodation",
+        "x": 472.0,
+        "baseline": 1217.5,
+        "font_size": 18.0,
+        "font_family": "p08r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r028-l1",
+        "text": "Communication",
+        "x": 135.0,
+        "baseline": 1261.5,
+        "font_size": 18.0,
+        "font_family": "p08r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r029-l1",
+        "text": "T",
+        "x": 472.0,
+        "baseline": 1261.5,
+        "font_size": 18.0,
+        "font_family": "p08r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r030-l1",
+        "text": "echnical setup",
+        "x": 482.125,
+        "baseline": 1261.5,
+        "font_size": 18.0,
+        "font_family": "p08r030",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r031-l1",
+        "text": "L",
+        "x": 135.0,
+        "baseline": 1305.5,
+        "font_size": 18.0,
+        "font_family": "p08r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r032-l1",
+        "text": "unch break",
+        "x": 145.125,
+        "baseline": 1305.5,
+        "font_size": 18.0,
+        "font_family": "p08r032",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r033-l1",
+        "text": "More on",
+        "x": 136.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p08r033",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r034-l1",
+        "text": "forkit.community",
+        "x": 214.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p08r034",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r035-l1",
+        "text": "Page",
+        "x": 1030.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p08r035",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p08-r036-l1",
+        "text": "8",
+        "x": 1082.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p08r036",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Choose Your Sponsorship Package",
+    "lines": [
+      {
+        "id": "p09-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p09r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r002-l1",
+        "text": "Choose Your Sponsorship Package",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p09r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p09-r003-l1",
+        "text": "Here’s a look at what you can expect from our sponsorship packages.",
+        "x": 95.0,
+        "baseline": 269.0,
+        "font_size": 18.0,
+        "font_family": "p09r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r004-l1",
+        "text": "BRONZE",
+        "x": 127.0,
+        "baseline": 384.0,
+        "font_size": 24.0,
+        "font_family": "p09r004",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p09-r005-l1",
+        "text": "$750",
+        "x": 127.0,
+        "baseline": 429.0,
+        "font_size": 36.0,
+        "font_family": "p09r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r006-l1",
+        "text": "$350",
+        "x": 147.0,
+        "baseline": 478.0,
+        "font_size": 24.0,
+        "font_family": "p09r006",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r008-l1",
+        "text": "VAT excluded",
+        "x": 127.0,
+        "baseline": 522.0,
+        "font_size": 14.0,
+        "font_family": "Arial",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r009-l1",
+        "text": "Be visible at the event:",
+        "x": 127.0,
+        "baseline": 557.0,
+        "font_size": 16.0,
+        "font_family": "p09r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r010-l1",
+        "text": "Logo on the event website ",
+        "x": 153.0,
+        "baseline": 593.0,
+        "font_size": 16.0,
+        "font_family": "p09r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r010-l2",
+        "text": "and across all event ",
+        "x": 153.0,
+        "baseline": 617.0,
+        "font_size": 16.0,
+        "font_family": "p09r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r010-l3",
+        "text": "communications",
+        "x": 153.0,
+        "baseline": 641.0,
+        "font_size": 16.0,
+        "font_family": "p09r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r011-l1",
+        "text": "Mention on social platforms",
+        "x": 153.0,
+        "baseline": 677.0,
+        "font_size": 16.0,
+        "font_family": "p09r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r012-l1",
+        "text": "Sponsor discount code to ",
+        "x": 153.0,
+        "baseline": 715.0,
+        "font_size": 16.0,
+        "font_family": "p09r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r012-l2",
+        "text": "share with your network",
+        "x": 153.0,
+        "baseline": 739.0,
+        "font_size": 16.0,
+        "font_family": "p09r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r013-l1",
+        "text": "Promotional materials ",
+        "x": 153.0,
+        "baseline": 775.0,
+        "font_size": 16.0,
+        "font_family": "p09r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r013-l2",
+        "text": "displayed at the venue ",
+        "x": 153.0,
+        "baseline": 799.0,
+        "font_size": 16.0,
+        "font_family": "p09r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r013-l3",
+        "text": "entrance",
+        "x": 153.0,
+        "baseline": 823.0,
+        "font_size": 16.0,
+        "font_family": "p09r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r014-l1",
+        "text": "Brand visibility and ",
+        "x": 153.0,
+        "baseline": 859.0,
+        "font_size": 16.0,
+        "font_family": "p09r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r014-l2",
+        "text": "networking opportunities",
+        "x": 153.0,
+        "baseline": 883.0,
+        "font_size": 16.0,
+        "font_family": "p09r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r015-l1",
+        "text": "2 free tickets",
+        "x": 153.0,
+        "baseline": 919.0,
+        "font_size": 16.0,
+        "font_family": "p09r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r016-l1",
+        "text": "EARLY BIRD",
+        "x": 226.0,
+        "baseline": 464.0,
+        "font_size": 12.0,
+        "font_family": "p09r016",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r017-l1",
+        "text": "LIMITED TIME",
+        "x": 226.0,
+        "baseline": 480.0,
+        "font_size": 12.0,
+        "font_family": "p09r017",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r018-l1",
+        "text": "SILVER",
+        "x": 468.333,
+        "baseline": 368.0,
+        "font_size": 24.0,
+        "font_family": "p09r018",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p09-r019-l1",
+        "text": "$000 ",
+        "x": 468.333,
+        "baseline": 413.0,
+        "font_size": 36.0,
+        "font_family": "p09r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r020-l1",
+        "text": ",",
+        "x": 507.9541,
+        "baseline": 413.0,
+        "font_size": 36.0,
+        "font_family": "p09r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r021-l1",
+        "text": "$750",
+        "x": 488.333,
+        "baseline": 462.0,
+        "font_size": 24.0,
+        "font_family": "p09r021",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r023-l1",
+        "text": "VAT excluded",
+        "x": 468.333,
+        "baseline": 506.0,
+        "font_size": 14.0,
+        "font_family": "Arial",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r024-l1",
+        "text": "All of the benefits of BRONZE, ",
+        "x": 468.333,
+        "baseline": 541.0,
+        "font_size": 16.0,
+        "font_family": "p09r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r024-l2",
+        "text": "plus:",
+        "x": 468.333,
+        "baseline": 565.0,
+        "font_size": 16.0,
+        "font_family": "p09r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r025-l1",
+        "text": "Logo displayed in reception ",
+        "x": 494.333,
+        "baseline": 602.0,
+        "font_size": 16.0,
+        "font_family": "p09r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r025-l2",
+        "text": "and break areas",
+        "x": 494.333,
+        "baseline": 626.0,
+        "font_size": 16.0,
+        "font_family": "p09r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r026-l1",
+        "text": "Dedicated company ",
+        "x": 494.333,
+        "baseline": 662.0,
+        "font_size": 16.0,
+        "font_family": "p09r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r026-l2",
+        "text": "introduction during the ",
+        "x": 494.333,
+        "baseline": 686.0,
+        "font_size": 16.0,
+        "font_family": "p09r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r026-l3",
+        "text": "opening session",
+        "x": 494.333,
+        "baseline": 710.0,
+        "font_size": 16.0,
+        "font_family": "p09r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r027-l1",
+        "text": "+",
+        "x": 494.333,
+        "baseline": 746.0,
+        "font_size": 16.0,
+        "font_family": "p09r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r028-l1",
+        "text": " 2 additional free tickets",
+        "x": 504.8799,
+        "baseline": 746.0,
+        "font_size": 16.0,
+        "font_family": "p09r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r029-l1",
+        "text": "Dedicated sponsor booth",
+        "x": 494.333,
+        "baseline": 784.0,
+        "font_size": 16.0,
+        "font_family": "p09r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r030-l1",
+        "text": "EARLY BIRD",
+        "x": 565.333,
+        "baseline": 448.0,
+        "font_size": 12.0,
+        "font_family": "p09r030",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r031-l1",
+        "text": "LIMITED TIME",
+        "x": 565.333,
+        "baseline": 464.0,
+        "font_size": 12.0,
+        "font_family": "p09r031",
+        "color": "#171717"
+      },
+      {
+        "id": "p09-r032-l1",
+        "text": "PLIN",
+        "x": 809.667,
+        "baseline": 384.0,
+        "font_size": 24.0,
+        "font_family": "p09r032",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p09-r033-l1",
+        "text": "ATUM",
+        "x": 838.9639,
+        "baseline": 384.0,
+        "font_size": 24.0,
+        "font_family": "p09r033",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p09-r034-l1",
+        "text": "$000 ",
+        "x": 809.667,
+        "baseline": 429.0,
+        "font_size": 36.0,
+        "font_family": "p09r034",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r035-l1",
+        "text": "4,",
+        "x": 833.7842,
+        "baseline": 429.0,
+        "font_size": 36.0,
+        "font_family": "p09r035",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r037-l1",
+        "text": "VAT excluded",
+        "x": 809.667,
+        "baseline": 454.0,
+        "font_size": 14.0,
+        "font_family": "Arial",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r038-l1",
+        "text": "E",
+        "x": 847.3024,
+        "baseline": 497.0,
+        "font_size": 16.0,
+        "font_family": "p09r038",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r039-l1",
+        "text": "xclusive Main Sponsor ",
+        "x": 856.8649,
+        "baseline": 497.0,
+        "font_size": 16.0,
+        "font_family": "p09r039",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r040-l1",
+        "text": "All of the benefits of SILVER, ",
+        "x": 809.667,
+        "baseline": 541.0,
+        "font_size": 16.0,
+        "font_family": "p09r040",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r040-l2",
+        "text": "plus:",
+        "x": 809.667,
+        "baseline": 565.0,
+        "font_size": 16.0,
+        "font_family": "p09r040",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r041-l1",
+        "text": "Be the exclusive sponsor of ",
+        "x": 835.667,
+        "baseline": 602.0,
+        "font_size": 16.0,
+        "font_family": "p09r041",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r041-l2",
+        "text": "ork it unis 22",
+        "x": 844.417,
+        "baseline": 626.0,
+        "font_size": 16.0,
+        "font_family": "p09r041",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r042-l1",
+        "text": "F!T07",
+        "x": 835.667,
+        "baseline": 626.0,
+        "font_size": 16.0,
+        "font_family": "p09r042",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r043-l1",
+        "text": "Exclusive sponsor booth",
+        "x": 835.667,
+        "baseline": 662.0,
+        "font_size": 16.0,
+        "font_family": "p09r043",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r044-l1",
+        "text": "Maximum online visibility and ",
+        "x": 835.667,
+        "baseline": 700.0,
+        "font_size": 16.0,
+        "font_family": "p09r044",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r044-l2",
+        "text": "promotion",
+        "x": 835.667,
+        "baseline": 724.0,
+        "font_size": 16.0,
+        "font_family": "p09r044",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r045-l1",
+        "text": "U",
+        "x": 835.667,
+        "baseline": 760.0,
+        "font_size": 16.0,
+        "font_family": "p09r045",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r046-l1",
+        "text": "nlimited free tickets",
+        "x": 847.5264,
+        "baseline": 760.0,
+        "font_size": 16.0,
+        "font_family": "p09r046",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r047-l1",
+        "text": "O",
+        "x": 809.667,
+        "baseline": 842.0,
+        "font_size": 14.0,
+        "font_family": "p09r047",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r047-l2",
+        "text": "I,z",
+        "x": 875.2237,
+        "baseline": 863.0,
+        "font_size": 14.0,
+        "font_family": "p09r047",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r048-l1",
+        "text": "nly one Platinum sponsorship is ",
+        "x": 820.3311,
+        "baseline": 842.0,
+        "font_size": 14.0,
+        "font_family": "p09r048",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r048-l2",
+        "text": "available. f selected Brone and ",
+        "x": 809.667,
+        "baseline": 863.0,
+        "font_size": 14.0,
+        "font_family": "p09r048",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r048-l3",
+        "text": "Silver sponsorship packages will no ",
+        "x": 809.667,
+        "baseline": 884.0,
+        "font_size": 14.0,
+        "font_family": "p09r048",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r048-l4",
+        "text": "longer be offered for this edition.",
+        "x": 809.667,
+        "baseline": 905.0,
+        "font_size": 14.0,
+        "font_family": "p09r048",
+        "color": "#a3a3a3"
+      },
+      {
+        "id": "p09-r049-l1",
+        "text": "Prices are shown in USD. Payments can be made in EUR, USD or TND.",
+        "x": 327.7266,
+        "baseline": 1008.0,
+        "font_size": 16.0,
+        "font_family": "p09r049",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r050-l1",
+        "text": "More on",
+        "x": 136.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p09r050",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r051-l1",
+        "text": "forkit.community",
+        "x": 214.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p09r051",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r052-l1",
+        "text": "Page",
+        "x": 1030.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p09r052",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-r053-l1",
+        "text": "9",
+        "x": 1082.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p09r053",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p09-price-silver-one",
+        "text": "1",
+        "x": 494.6102,
+        "baseline": 413,
+        "font_size": 36,
+        "font_family": "silver-digit",
+        "color": "#f5f5f5",
+        "opacity": 0.6
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Fork it! beyond events...",
+    "lines": [
+      {
+        "id": "p10-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p10r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r002-l1",
+        "text": "Fork it! beyond events...",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p10r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p10-r003-l1",
+        "text": "Fork it! Community produces media content including YouTube videos, blog ",
+        "x": 95.0,
+        "baseline": 269.0,
+        "font_size": 18.0,
+        "font_family": "p10r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r003-l2",
+        "text": "articles, podcasts, and LinkedIn updates to extend the reach of our events ",
+        "x": 95.0,
+        "baseline": 296.0,
+        "font_size": 18.0,
+        "font_family": "p10r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r003-l3",
+        "text": "and community.",
+        "x": 95.0,
+        "baseline": 323.0,
+        "font_size": 18.0,
+        "font_family": "p10r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r004-l1",
+        "text": "YouTube channel",
+        "x": 135.0,
+        "baseline": 707.44,
+        "font_size": 24.0,
+        "font_family": "p10r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r005-l1",
+        "text": "On our YouTube channel, we share speaker ",
+        "x": 135.0,
+        "baseline": 737.44,
+        "font_size": 16.0,
+        "font_family": "p10r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r005-l2",
+        "text": "interviews, conference recordings, VODs, and ",
+        "x": 135.0,
+        "baseline": 761.44,
+        "font_size": 16.0,
+        "font_family": "p10r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r005-l3",
+        "text": "exclusive content from our events.",
+        "x": 135.0,
+        "baseline": 785.44,
+        "font_size": 16.0,
+        "font_family": "p10r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r006-l1",
+        "text": "The blog",
+        "x": 647.0,
+        "baseline": 707.44,
+        "font_size": 24.0,
+        "font_family": "p10r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r007-l1",
+        "text": "We regularly publish news and updates about the ",
+        "x": 647.0,
+        "baseline": 737.44,
+        "font_size": 16.0,
+        "font_family": "p10r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r007-l2",
+        "text": "community on our website, keeping people informed ",
+        "x": 647.0,
+        "baseline": 761.44,
+        "font_size": 16.0,
+        "font_family": "p10r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r007-l3",
+        "text": "and engaged.",
+        "x": 647.0,
+        "baseline": 785.44,
+        "font_size": 16.0,
+        "font_family": "p10r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r008-l1",
+        "text": "Podcasts",
+        "x": 135.0,
+        "baseline": 1168.88,
+        "font_size": 24.0,
+        "font_family": "p10r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r009-l1",
+        "text": "Our podcasts are available on Spotify and Apple ",
+        "x": 135.0,
+        "baseline": 1198.88,
+        "font_size": 16.0,
+        "font_family": "p10r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r009-l2",
+        "text": "Podcasts, where we regularly engage with members ",
+        "x": 135.0,
+        "baseline": 1222.88,
+        "font_size": 16.0,
+        "font_family": "p10r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r009-l3",
+        "text": "of the community. Episodes are published in multiple ",
+        "x": 135.0,
+        "baseline": 1246.88,
+        "font_size": 16.0,
+        "font_family": "p10r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r009-l4",
+        "text": "languages.",
+        "x": 135.0,
+        "baseline": 1270.88,
+        "font_size": 16.0,
+        "font_family": "p10r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r010-l1",
+        "text": "LinkedIn community",
+        "x": 647.0,
+        "baseline": 1168.88,
+        "font_size": 24.0,
+        "font_family": "p10r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r011-l1",
+        "text": "LinkedIn is where we connect professionally with our ",
+        "x": 647.0,
+        "baseline": 1198.88,
+        "font_size": 16.0,
+        "font_family": "p10r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r011-l2",
+        "text": "community. We share updates, event highlights, and ",
+        "x": 647.0,
+        "baseline": 1222.88,
+        "font_size": 16.0,
+        "font_family": "p10r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r011-l3",
+        "text": "insights from our speakers and members.",
+        "x": 647.0,
+        "baseline": 1246.88,
+        "font_size": 16.0,
+        "font_family": "p10r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r012-l1",
+        "text": "And much more to come...",
+        "x": 95.0,
+        "baseline": 1368.88,
+        "font_size": 18.0,
+        "font_family": "p10r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r013-l1",
+        "text": "More on",
+        "x": 136.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p10r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r014-l1",
+        "text": "forkit.community",
+        "x": 214.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p10r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r015-l1",
+        "text": "Page",
+        "x": 1022.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p10r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p10-r016-l1",
+        "text": "10",
+        "x": 1074.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p10r016",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "width": 1190,
+    "height": 1684,
+    "title": "Event Series Prospectus Meet the Organising Team",
+    "lines": [
+      {
+        "id": "p11-r001-l1",
+        "text": "Event Series Prospectus",
+        "x": 95.0,
+        "baseline": 124.0,
+        "font_size": 24.0,
+        "font_family": "p11r001",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r002-l1",
+        "text": "Meet the Organising Team",
+        "x": 95.0,
+        "baseline": 231.0,
+        "font_size": 30.0,
+        "font_family": "p11r002",
+        "color": "#ebff11"
+      },
+      {
+        "id": "p11-r003-l1",
+        "text": "Fork it! Community is the result of the hard work of experienced professionals who have combined their expertise to ",
+        "x": 95.0,
+        "baseline": 277.0,
+        "font_size": 18.0,
+        "font_family": "p11r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r003-l2",
+        "text": "build a dynamic and innovative community. Together, they share knowledge, foster innovation, encourage ",
+        "x": 95.0,
+        "baseline": 304.0,
+        "font_size": 18.0,
+        "font_family": "p11r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r003-l3",
+        "text": "collaboration, and connect creative minds across the global tech community.",
+        "x": 95.0,
+        "baseline": 331.0,
+        "font_size": 18.0,
+        "font_family": "p11r003",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r004-l1",
+        "text": "Aziz Ouertani ",
+        "x": 275.0,
+        "baseline": 398.0,
+        "font_size": 24.0,
+        "font_family": "p11r004",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r005-l1",
+        "text": "General Manager at Fork it! Community",
+        "x": 275.0,
+        "baseline": 426.0,
+        "font_size": 18.0,
+        "font_family": "p11r005",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r006-l1",
+        "text": "Aziz leads the international development of Fork it! Community, ",
+        "x": 275.0,
+        "baseline": 453.0,
+        "font_size": 14.0,
+        "font_family": "p11r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r006-l2",
+        "text": "coordinating events, partnerships, speakers, and local teams across ",
+        "x": 275.0,
+        "baseline": 474.0,
+        "font_size": 14.0,
+        "font_family": "p11r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r006-l3",
+        "text": "multiple countries. He focuses on building strong tech communities ",
+        "x": 275.0,
+        "baseline": 495.0,
+        "font_size": 14.0,
+        "font_family": "p11r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r006-l4",
+        "text": "through practical, human, and developer-focused events.",
+        "x": 275.0,
+        "baseline": 516.0,
+        "font_size": 14.0,
+        "font_family": "p11r006",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r007-l1",
+        "text": "aziz@bearstudio.fr",
+        "x": 291.0,
+        "baseline": 557.0,
+        "font_size": 16.0,
+        "font_family": "p11r007",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r008-l1",
+        "text": "Hend Fellah",
+        "x": 275.0,
+        "baseline": 621.0,
+        "font_size": 24.0,
+        "font_family": "p11r008",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r009-l1",
+        "text": "Company manager",
+        "x": 275.0,
+        "baseline": 649.0,
+        "font_size": 18.0,
+        "font_family": "p11r009",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r010-l1",
+        "text": "Hend is the director of Camel Studio in Tunisia, passionate about the ",
+        "x": 275.0,
+        "baseline": 676.0,
+        "font_size": 14.0,
+        "font_family": "p11r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r010-l2",
+        "text": "impact of technology on growth and innovation. She wants to make ",
+        "x": 275.0,
+        "baseline": 697.0,
+        "font_size": 14.0,
+        "font_family": "p11r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r010-l3",
+        "text": "Fork it! a memorable event.",
+        "x": 275.0,
+        "baseline": 718.0,
+        "font_size": 14.0,
+        "font_family": "p11r010",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r011-l1",
+        "text": "+216 26659662",
+        "x": 291.0,
+        "baseline": 759.0,
+        "font_size": 16.0,
+        "font_family": "p11r011",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r012-l1",
+        "text": "Houssem Balti ",
+        "x": 275.0,
+        "baseline": 823.0,
+        "font_size": 24.0,
+        "font_family": "p11r012",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r013-l1",
+        "text": "Web developer ",
+        "x": 275.0,
+        "baseline": 851.0,
+        "font_size": 18.0,
+        "font_family": "p11r013",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r014-l1",
+        "text": "J",
+        "x": 275.0,
+        "baseline": 878.0,
+        "font_size": 14.0,
+        "font_family": "p11r014",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r015-l1",
+        "text": "unior developer passionate about coding, sharing ideas, and ",
+        "x": 282.6016,
+        "baseline": 878.0,
+        "font_size": 14.0,
+        "font_family": "p11r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r015-l2",
+        "text": "connecting with like-minded people.",
+        "x": 275.0,
+        "baseline": 899.0,
+        "font_size": 14.0,
+        "font_family": "p11r015",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r016-l1",
+        "text": "houssem@bearstudio.fr",
+        "x": 291.0,
+        "baseline": 940.0,
+        "font_size": 16.0,
+        "font_family": "p11r016",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r017-l1",
+        "text": "ND",
+        "x": 275.0,
+        "baseline": 1004.0,
+        "font_size": 24.0,
+        "font_family": "p11r017",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r018-l1",
+        "text": "hung uong ",
+        "x": 292.7422,
+        "baseline": 1004.0,
+        "font_size": 24.0,
+        "font_family": "p11r018",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r019-l1",
+        "text": "P&R",
+        "x": 275.0,
+        "baseline": 1032.0,
+        "font_size": 18.0,
+        "font_family": "p11r019",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r020-l1",
+        "text": "artnership  elations Manager",
+        "x": 286.4258,
+        "baseline": 1032.0,
+        "font_size": 18.0,
+        "font_family": "p11r020",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r021-l1",
+        "text": "ND",
+        "x": 275.0,
+        "baseline": 1059.0,
+        "font_size": 14.0,
+        "font_family": "p11r021",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r022-l1",
+        "text": "hung uong is an entrepreneur and business specialist with expertise ",
+        "x": 285.541,
+        "baseline": 1059.0,
+        "font_size": 14.0,
+        "font_family": "p11r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r022-l2",
+        "text": "in strategy, innovation, and helping organisations navigate complex ",
+        "x": 275.0,
+        "baseline": 1080.0,
+        "font_size": 14.0,
+        "font_family": "p11r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r022-l3",
+        "text": "business challenges.",
+        "x": 275.0,
+        "baseline": 1101.0,
+        "font_size": 14.0,
+        "font_family": "p11r022",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r023-l1",
+        "text": "nhung@forkit.community",
+        "x": 291.0,
+        "baseline": 1142.0,
+        "font_size": 16.0,
+        "font_family": "p11r023",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r024-l1",
+        "text": "Ry",
+        "x": 275.0,
+        "baseline": 1206.0,
+        "font_size": 24.0,
+        "font_family": "p11r024",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r025-l1",
+        "text": "ud Baer ",
+        "x": 291.6641,
+        "baseline": 1206.0,
+        "font_size": 24.0,
+        "font_family": "p11r025",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r026-l1",
+        "text": "Founder  CT",
+        "x": 275.0,
+        "baseline": 1234.0,
+        "font_size": 18.0,
+        "font_family": "p11r026",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r027-l1",
+        "text": "&O",
+        "x": 349.9883,
+        "baseline": 1234.0,
+        "font_size": 18.0,
+        "font_family": "p11r027",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r028-l1",
+        "text": "RB",
+        "x": 275.0,
+        "baseline": 1261.0,
+        "font_size": 14.0,
+        "font_family": "p11r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r028-l2",
+        "text": "j",
+        "x": 389.2695,
+        "baseline": 1282.0,
+        "font_size": 14.0,
+        "font_family": "p11r028",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r029-l1",
+        "text": "udy aer is a technology leader and entrepreneur with extensive ",
+        "x": 283.9551,
+        "baseline": 1261.0,
+        "font_size": 14.0,
+        "font_family": "p11r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r029-l2",
+        "text": "experience in proect management, business development, and ",
+        "x": 275.0,
+        "baseline": 1282.0,
+        "font_size": 14.0,
+        "font_family": "p11r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r029-l3",
+        "text": "community building.",
+        "x": 275.0,
+        "baseline": 1303.0,
+        "font_size": 14.0,
+        "font_family": "p11r029",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r030-l1",
+        "text": "rudy@forkit.community",
+        "x": 291.0,
+        "baseline": 1344.0,
+        "font_size": 16.0,
+        "font_family": "p11r030",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r031-l1",
+        "text": "More on",
+        "x": 136.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p11r031",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r032-l1",
+        "text": "forkit.community",
+        "x": 214.8164,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p11r032",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r033-l1",
+        "text": "Page",
+        "x": 1025.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p11r033",
+        "color": "#f5f5f5"
+      },
+      {
+        "id": "p11-r034-l1",
+        "text": "11",
+        "x": 1077.0,
+        "baseline": 1605.0,
+        "font_size": 18.0,
+        "font_family": "p11r034",
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "width": 1190,
+    "height": 1684,
+    "title": "We look forward to shaping what comes next, together.",
+    "lines": [
+      {
+        "id": "p12-r001-l1",
+        "text": "We look forward to shaping",
+        "x": 306.4717,
+        "baseline": 831.332,
+        "font_size": 45.0,
+        "font_family": "p12r001",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r001-l2",
+        "text": "what comes next, together.",
+        "x": 303.7471,
+        "baseline": 876.332,
+        "font_size": 45.0,
+        "font_family": "p12r001",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r002-l1",
+        "text": "LinkedIn",
+        "x": 420.0,
+        "baseline": 1566.0,
+        "font_size": 16.0,
+        "font_family": "p12r002",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r003-l1",
+        "text": "Youtube",
+        "x": 444.0,
+        "baseline": 1600.0,
+        "font_size": 16.0,
+        "font_family": "p12r003",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r004-l1",
+        "text": "Instagram",
+        "x": 552.0,
+        "baseline": 1566.0,
+        "font_size": 16.0,
+        "font_family": "p12r004",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r005-l1",
+        "text": "Facebook",
+        "x": 579.0,
+        "baseline": 1600.0,
+        "font_size": 16.0,
+        "font_family": "p12r005",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r006-l1",
+        "text": "Whatsapp",
+        "x": 708.0,
+        "baseline": 1566.0,
+        "font_size": 16.0,
+        "font_family": "p12r006",
+        "color": "#ffffff"
+      },
+      {
+        "id": "p12-r007-l1",
+        "text": "Lu.ma",
+        "x": 723.0,
+        "baseline": 1600.0,
+        "font_size": 16.0,
+        "font_family": "p12r007",
+        "color": "#ffffff"
+      }
+    ]
+  }
+]

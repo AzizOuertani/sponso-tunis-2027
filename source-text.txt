@@ -1,0 +1,499 @@
+PAGE 1
+EVENT SERIES
+PROSPECTUS
+TUNISIA 2027
+Planned for April or May 2027 (date to be confirmed)
+One full-day event to learn, practice, and exchange with developers 
+who build real products. Training human beings, not machines.
+
+
+PAGE 2
+Event Series Prospectus
+Fork it! Community's mission is to share software engineering knowledge through events around the world, 
+connecting practitioners and enthusiasts in an environment focused on the honest exchange of practical insights and 
+fostering a network built on real-world experience and practical applications.
+About Fork it! Community
+Events for people in tech around the world to share 
+real-life experiences, supported by a community built 
+on honest, practical feedback.
+Each edition is shaped around a central theme and 
+explores a wide range of topics, including technical 
+project management, UI/UX design, front-end and 
+back-end development, DevOps, security, and more. 
+The goal is to provide concrete insights rooted in real 
+projects and practical experience, offering lasting value 
+to every participant.
+Fork it! continues to grow worldwide
+Fork it! events have brought together vibrant communities across 7 countries 
+and 11 cities, including Brussels, Paris, Rouen, Montpellier, Casablanca, 
+Tunis, Nabeul, Hanoi, Da Nang, Bangkok, and Kuala Lumpur. More editions 
+are planned, with new cities coming soon.
+Paris
+Rouen
+Montpellier
+Brussels
+Tunis
+Nabeul
+Casablanca
+Hanoi
+Da Nang
+Bangkok
+Kuala Lumpur
+More on forkit.community
+Page 2
+
+
+PAGE 3
+Event Series Prospectus
+Fork it! Since the Beginning
+Since June 2024, Fork it! Community has united tech 
+enthusiasts worldwide, expanding its network for sharing 
+experiences and fostering collaboration to drive innovation.
+Fork it! is also a human story. It began with a group of tech 
+professionals from Normandy who, through Fork it!, found 
+their voice on stage and went on to share their expertise at 
+conferences around the world. Special recognition goes to: 
+Ivan Dalmet, Yoann Fleury, Hugo Pérard, Nicolas Torion, 
+Marie Douet and many others.
+Rouen June 2026
+Tunis
+Hanoi
+Apr. 2026
+Mar. 2026
+Rouen Jan. 2026
+2026
+Bangkok Oct. 2025
+Kuala Lumpur Oct. 2025
+Hanoi Aug. 2025
+Bangkok Aug. 2025
+Montpellier May. 2025
+Tunis Apr. 2025
+Tunis Mar. 2025
+Nabeul Feb. 2025
+Paris
+Bangkok
+Mar. 2025
+Feb. 2025
+2025
+Casablanca Nov. 2024
+Bangkok Nov. 2024
+Kuala Lumpur Oct. 2024
+Da Nang Nov. 2024
+Hanoi Oct. 2024
+Tunis Sept. 2024
+Rouen June 2024
+More on forkit.community
+Page 3
+
+
+PAGE 4
+Event Series Prospectus
+Fork it! Tunis on April 18, 2026
+Fork it! Tunis 2026 took place on April 18 at City of Culture in Tunis, 
+bringing together the local and international tech community for a full day 
+of practical, experience-driven talks. This second full-day edition in Tunisia 
+gathered more than 170 attendees: developers, designers, Product 
+Managers, students, and founders.
+Built on a no bullshit
+ approach, the event focused on real-world insights 
+from production, covering topics such as architecture, AI, Web3, and modern 
+development practices. With 8 talks from 12 speakers, the conference 
+combined high-quality content with strong networking moments throughout 
+the day. The event was supported by multiple sponsors and partners, 
+contributing to its overall success and impact.
+Big thanks to Camel Studio, TinkerView, baksla.sh, Ysely, and partners 
+CWCloud, 9Rayty, GDG Issam, The Pulse Digital Hub, Inceptum Junior 
+Entreprise.
+Want to see more? Check out the photo gallery and all VODs.
+12
+SPEAKERS
+4
+SPONSORS
+15+
+COUNTRIES
+170+
+ATTENDEES
+Our sponsors for this event
+SILVER
+More on forkit.community
+SILVER
+Bronze
+Bronze
+Page 4
+
+
+PAGE 5
+Event Series Prospectus
+Fork it! Tunis 
+ April or May 2027
+Fork it! Tunis 2027 will bring together an expected audience of 150200+ attendees and 10
+12 speakers for a full day of talks, workshops, 
+networking, and knowledge sharing.
+This event is designed to facilitate the sharing of concrete experiences and 
+practical know-how within Tuniss diverse tech community, encompassing 
+engineers and C-level professionals.
+The goal is to foster direct and relevant exchanges that enrich all attendees.
+10-12
+EXPECTED 
+SPEAKERS
+3-5
+EXPECTED 
+BOOTHS
+15+
+COUNTRIES
+150+
+EXPECTED 
+ATTENDEES
+Visitors and speakers from the community around the world
+France
+Belgium
+Morocco
+Tunisia
+Vietnam
+Thailand
+Malaysia
+Tunis
+Schedule of the event
+Welcome
+Registration and welcome
+Conferences, Workshops
+Learn, share and connect
+Networking cocktail
+Informal networking with speakers and attendees
+Roundtable
+Open discussion with the community
+City of Culture (confirmation currently under discussion)
+(Av. Mohamed 5, Tunis
+More on forkit.community
+Page 5
+
+
+PAGE 6
+Event Series Prospectus
+Main partners for Fork it! Tunis 2027
+Our main partners play a crucial role in supporting the organisation and 
+growth of Fork it! Tunis 2027, providing essential contributions that help 
+deliver a high-quality experience for attendees, speakers, and sponsors.
+Join Us
+Be our next partner!
+Join Us
+Be our next partner!
+Join Us
+Be our next partner!
+Some of our partners and sponsors
+Our strategic partners and sponsors are the driving force behind Fork it! 
+Communitys long-term success, far beyond a single event. Their ongoing 
+support fuels our mission.
+500+ attendees
+Annual conference in Paris
+Diverse Speaker Lineup on a big 
+variety of hot subjects
+Annual conference with 1,000 
+participants
+2,200+ members in the meetup 
+community
+Software development topics
+Europe's leading JavaScript 
+conference
+Prominent figures in the 
+JavaScript community
++1,500 attendees per day
+Belgiums Leading JavaScript 
+Community
+Top speakers from Netflix, 
+Cloudflare, and Builder.io
+Audience made of tech 
+professionals
+International Conference
+200+ attendees per event in 
+person + virtual participants
+Backed up by major tech 
+communities
+Around 500+ attendees
+First React conference in London
+Community-focused, not-for-
+profit event by Red Badger
+More on forkit.community
+Page 6
+
+
+PAGE 7
+Event Series Prospectus
+Speakers Featured at Fork it! Tunis 2026
+Fork it! Tunis 2026 brought together exceptional local talent and renowned 
+international professionals. By connecting people from across the region 
+and around the world, the event fostered meaningful exchanges and 
+created a lasting impact.
+Marwen Essalah
+Ivan Dalmet
+Founder at Etikks 
+& Space Academy
+Co-founder and 
+Lead Designer
+Etikks
+BearStudio
+Sami Belhadj
+Aziz Ouertani
+Software Delivery 
+Manager
+Sales & Backend 
+developer
+ODDO BHF
+BearStudio
+Tiffany Souterre
+Eya Laouini
+Senior Developer 
+Advocate
+AI Engineer & Google 
+Developer Expert
+AWS
+Mangabey
+Other Featured Speakers
+We featured a diverse range of speakers who shared their expertise, 
+experience, and insights, bringing together local talent and international 
+professionals.
+Mathias Arlaud
+Symfony Core Team
+Co-Founder & COO
+Bakslash
+Olivier Leplus
+Developer Advocate
+AWS
+Aziz Becha
+Software Developer
+Nicolas Grekas
+Symfony Core Team
+Symfony
+Yasser Foudhil
+Delivery Manager
+ODDO BHF
+Yassine 
+Benabbas
+PhD, teacher, and 
+Software Development
+ C
+ommunity Advocate
+Worldline
+Nisrine 
+Hamdouni
+Ba Ngoc 
+Michel Boretti
+Founder & Google 
+Developer Expert
+in Machine Learning 
+Founder
+Application Development 
+Agency
+Zenika
+Proton X
+Wang Haokai
+Cédric Dué
+Quentin Adam
+Founder 
+Freelance Tech lead
+& Full-stack developer
+CEO
+Zinc.today
+Ysely
+Clever Cloud
+Lorie den Os
+Tanisha Sharma
+Clement 
+Delafargue
+Product Tech Lead
+AI Developer Advocate
+Yseop
+SuprSend
+Datalog
+leboncoin
+And more...
+Xavier Van de 
+Woestyne
+Web developer
+Tarides
+Robin Chalas
+Member of the Symfony 
+Core Team
+Bakslash
+Abeba NGWE
+Front-end developer
+More on forkit.community
+Page 7
+
+
+PAGE 8
+Event Series Prospectus
+Why partner with Fork it! Community?
+Partnering with Fork it! promotes collaboration within the tech ecosystem, 
+supports education, and increases visibility for institutions, communities, 
+companies, and educational organisations.
+For Institutions
+Promote global tech collaboration and innovation.
+Support education and community-driven initiatives.
+Gain visibility and credibility in the tech ecosystem.
+For Companies
+Access top talent through community engagement.
+Amplify brand awareness in the tech sector.
+Demonstrate commitment to tech growth and 
+responsibility.
+For Tech Community
+Connect with experienced professionals from across 
+the tech industry.
+Showcase innovation and leadership.
+Build brand trust and attract partnerships.
+For Schools and Coworking Spaces
+Highlight programs and facilities to future tech 
+leaders.
+Position as innovation and learning hubs.
+Foster strong relationships with the tech community.
+How your sponsorship helps
+Your support helps us cover the essential costs required to deliver the best 
+possible experience for both speakers and attendees.
+Renting the venue
+Accommodation
+Communication
+Technical setup
+Lunch break
+More on forkit.community
+Page 8
+
+
+PAGE 9
+Event Series Prospectus
+Choose Your Sponsorship Package
+Heres a look at what you can expect from our sponsorship packages.
+BRONZE
+$750
+$350
+VAT
+ excluded
+Be visible at the event:
+Logo on the event website 
+and across all event 
+communications
+Mention on social platforms
+Sponsor discount code to 
+share with your network
+Promotional materials 
+displayed at the venue 
+entrance
+Brand visibility and 
+networking opportunities
+2 free tickets
+EARLY BIRD
+LIMITED TIME
+SILVER
+$ 1,000 
+$750
+VAT
+ excluded
+All of the benefits of BRONZE, 
+plus:
+Logo displayed in reception 
+and break areas
+Dedicated company 
+introduction during the 
+opening session
++ 2 additional free tickets
+Dedicated sponsor booth
+EARLY BIRD
+LIMITED TIME
+PLATINUM
+$4,000 
+VAT
+ excluded
+Exclusive Main Sponsor 
+All of the benefits of SILVER, 
+plus:
+Be the exclusive sponsor of 
+Fork it! Tunis 2027
+Exclusive sponsor booth
+Maximum online visibility and 
+promotion
+Unlimited free tickets
+Only one Platinum sponsorship is 
+available. If selected, Bronze and 
+Silver sponsorship packages will no 
+longer be offered for this edition.
+Prices are shown in USD. Payments can be made in EUR, USD or TND.
+More on forkit.community
+Page 9
+
+
+PAGE 10
+Event Series Prospectus
+Fork it! beyond events...
+Fork it! Community produces media content including YouTube videos, blog 
+articles, podcasts, and LinkedIn updates to extend the reach of our events 
+and community.
+YouTube channel
+On our YouTube channel, we share speaker 
+interviews, conference recordings, VODs, and 
+exclusive content from our events.
+The blog
+We regularly publish news and updates about the 
+community on our website, keeping people informed 
+and engaged.
+Podcasts
+Our podcasts are available on Spotify and Apple 
+Podcasts, where we regularly engage with members 
+of the community. Episodes are published in multiple 
+languages.
+LinkedIn community
+LinkedIn is where we connect professionally with our 
+community. We share updates, event highlights, and 
+insights from our speakers and members.
+And much more to come...
+More on forkit.community
+Page 10
+
+
+PAGE 11
+Event Series Prospectus
+Meet the Organising Team
+Fork it! Community is the result of the hard work of experienced professionals who have combined their expertise to 
+build a dynamic and innovative community. Together, they share knowledge, foster innovation, encourage 
+collaboration, and connect creative minds across the global tech community.
+Aziz Ouertani 
+General Manager at Fork it! Community
+Aziz leads the international development of Fork it! Community, 
+coordinating events, partnerships, speakers, and local teams across 
+multiple countries. He focuses on building strong tech communities 
+through practical, human, and developer-focused events.
+aziz@bearstudio.fr
+Hend Fellah
+Company manager
+Hend is the director of Camel Studio in Tunisia, passionate about the 
+impact of technology on growth and innovation. She wants to make 
+Fork it! a memorable event.
++216 26659662
+Houssem Balti 
+Web developer 
+Junior developer passionate about coding, sharing ideas, and 
+connecting with like-minded people.
+houssem@bearstudio.fr
+Nhung Duong 
+Partnership & Relations Manager
+Nhung Duong is an entrepreneur and business specialist with expertise 
+in strategy, innovation, and helping organisations navigate complex 
+business challenges.
+nhung@forkit.community
+Rudy Baer 
+Founder & CTO
+Rudy Baer is a technology leader and entrepreneur with extensive 
+experience in project management, business development, and 
+community building.
+rudy@forkit.community
+More on forkit.community
+Page 11
+
+
+PAGE 12
+We look forward to shaping
+what comes next, together.
+LinkedIn
+Youtube
+Instagram
+Facebook
+Whatsapp
+Lu.ma
